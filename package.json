@@ -1,0 +1,30 @@
+{
+  "name": "api_angerman_oficial",
+  "version": "1.0.0",
+  "description": "este es mi programa para generar api de manera segura usando varias tecnologias algunas son nodejs, mongodb, body-paser, jwt, logger, mongose entre otros. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "german apaza ninaraque => ang -d",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "joi": "^14.0.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.13",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0",
+    "underscore": "^1.9.1",
+    "uuid": "^3.3.2",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}

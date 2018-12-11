@@ -361,3 +361,174 @@
 {"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.273 ms","level":"info"}
 {"message":"Corriendo en el puerto 3000.","level":"info"}
 {"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 22.075 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.301 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.651 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.089 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.341 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 1.148 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.395 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.291 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 3.253 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 23.937 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.786 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.357 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 1.062 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.014 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.528 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.987 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.463 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.525 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.526 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.018 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.443 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.522 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.854 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.406 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.475 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.450 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 9.508 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.692 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.641 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.519 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.598 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.692 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 26.431 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.908 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.400 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.425 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.543 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.611 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.959 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.494 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.420 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.992 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.092 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.804 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.441 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.296 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.832 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.666 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 1.276 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.920 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.450 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 0.588 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.321 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 1.221 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 29.606 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f20a75dfc9e18cca50df3","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f20a75dfc9e18cca50df3","nombProfesion":"OBSTETRA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 69 - 122.928 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 352 - 5.050 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.238 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f217aa7b6dd0cf0d58549","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f217aa7b6dd0cf0d58549","nombProfesion":"data","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 65 - 40.593 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 418 - 17.962 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f21b8a7b6dd0cf0d5854a","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f21b8a7b6dd0cf0d5854a","nombProfesion":"data","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 65 - 6.605 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 484 - 3.977 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 2.119 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.480 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.824 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.710 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.381 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.524 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.060 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.560 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.802 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.287 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.860 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.399 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.797 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.985 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 7.381 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 26.738 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 1.034 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 9.500 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 53.705 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 1.166 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 11.230 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 35.904 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 1.101 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 8.151 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 33.448 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 6.499 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 34.499 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 7.589 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 9.727 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.821 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.489 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.175 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.561 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 6.162 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 0.488 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.969 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.842 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.278 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.307 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.515 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.292 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.707 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f2a374bd71921d02735db","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f2a374bd71921d02735db","nombProfesion":"psicologo","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 70 - 16.829 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 555 - 2.832 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.786 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.760 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.733 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f2c6f4bd71921d02735dc","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f2c6f4bd71921d02735dc","nombProfesion":"NUTRICIONISTA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 74 - 3.415 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 630 - 2.149 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.884 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f2cfa4bd71921d02735dd","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f2cfa4bd71921d02735dd","nombProfesion":"ASISTENTA SOCIAL","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 77 - 3.014 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 708 - 2.880 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.107 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.098 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.065 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.930 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.741 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.140 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.951 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.946 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.915 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.638 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.826 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.014 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.101 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.405 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.809 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.273 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.055 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.952 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.518 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.165 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.508 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.877 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.236 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.020 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 22.296 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.476 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.731 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2010 - 3.740 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 22.711 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0f3206c93dd60a7025272e","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0f3206c93dd60a7025272e","nombProfesion":"ADMINISTRADOR","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 74 - 14.121 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 783 - 3.127 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.095 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.886 ms","level":"info"}

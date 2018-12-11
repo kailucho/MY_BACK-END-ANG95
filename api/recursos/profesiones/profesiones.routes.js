@@ -31,14 +31,15 @@ profesionesRouter.get('/', (req, res) => {
         })
 })
 
-profesionesRouter.post('/',  (req, res) => {
-    profesionController.crearProfesion(req.body, req.user.username)
+profesionesRouter.post('/',  validarProfesion, (req, res) => {
+    profesionController.crearProfesion(req.body)
+    // profesionController.crearProfesion(req.body, req.user.username)
         .then(profesion => {
             log.info("Profesion agregada a la colección profesion", profesion)
             res.status(201).json(profesion)
         })
         .catch(err => {
-            log.error("Profesion no pudo ser creado", err)
+            log.error("Profesion no pudo ser creada", err)
             res.status(500).send('Error ocurrió al tratar de crear el producto.')
         })
 

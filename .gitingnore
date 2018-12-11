@@ -1,0 +1,13 @@
+# Ignorando JPG's y PNG's
+ 
+# /*.jpg
+# /*.jpeg
+# /*.png
+ 
+# Ignorando la Carpeta Vacía
+ 
+/node_modules
+ 
+# Ignorando un Archivo Individual
+ 
+# /archivo.dumm

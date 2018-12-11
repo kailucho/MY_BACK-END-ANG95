@@ -1,15 +1,14 @@
 const Joi = require('joi')
 
-// blue print producto
-const blueprintProducto = Joi.object().keys({
-    titulo: Joi.string().max(100).required(),
-    precio: Joi.number().positive().precision(2).required(),
-    moneda: Joi.string().length(3).uppercase()
+// blue print profesion
+const blueprintProfesion = Joi.object().keys({
+    nombProfesion: Joi.string().max(100).required()
+    
 })
 
 // mi middelware para validar inputs del view
-const validarProducto = (req, res, next) => {
-    let resultado = Joi.validate(req.body, blueprintProducto, {
+const validarProfesion = (req, res, next) => {
+    let resultado = Joi.validate(req.body, blueprintProfesion, {
         abortEarly: false,
         convert: false
     })
@@ -21,9 +20,9 @@ const validarProducto = (req, res, next) => {
             return acumulador + `[${error.message}]`
         }, "")
 
-        res.status(400).send(`El producto en el body debe especificar titulo, precio y moneda.
+        res.status(400).send(`La profesión en el body debe especificar un nombre.
        errores en tu request: ${erroresDeValidacion}`)
     }
 }
 
-module.exports = validarProducto;
+module.exports = validarProfesion;

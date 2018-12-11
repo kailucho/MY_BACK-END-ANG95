@@ -2,7 +2,7 @@ const express = require('express')
 const _ = require('underscore')
 const passport = require('passport')
 
-const validarProducto = require('./profesiones.validate')
+const validarProfesion = require('./profesiones.validate')
 const log = require('./../../../utils/logger')
 const profesionController = require('./profesiones.controller')
 
@@ -22,23 +22,23 @@ function validarIdDeMongo(req, res, next) {
 }
 
 profesionesRouter.get('/', (req, res) => {
-    profesionController.obtenerProductos()
-        .then(productos => {
-            res.json(productos)
+    profesionController.obtenerProfesiones()
+        .then(profesiones => {
+            res.json(profesiones)
         })
         .catch(err => {
             res.status(500).send('Error al leer los productos de la base de datos.')
         })
 })
 
-profesionesRouter.post('/', [jwtAutenticate, validarProducto], (req, res) => {
-    profesionController.crearProducto(req.body, req.user.username)
-        .then(producto => {
-            log.info("Prodicto agregado a la colección productoa", producto)
-            res.status(201).json(producto)
+profesionesRouter.post('/',  (req, res) => {
+    profesionController.crearProfesion(req.body, req.user.username)
+        .then(profesion => {
+            log.info("Profesion agregada a la colección profesion", profesion)
+            res.status(201).json(profesion)
         })
         .catch(err => {
-            log.error("Producto no pudo ser creado", err)
+            log.error("Profesion no pudo ser creado", err)
             res.status(500).send('Error ocurrió al tratar de crear el producto.')
         })
 
@@ -60,7 +60,7 @@ profesionesRouter.get('/:id', validarIdDeMongo, (req, res) => {
         })
 })
 
-profesionesRouter.put('/:id', [jwtAutenticate, validarProducto], async (req, res) => {
+profesionesRouter.put('/:id', [jwtAutenticate, validarProfesion], async (req, res) => {
     let id = req.params.id
     let requestUsuario = req.user.username
     let productoAReemplazar

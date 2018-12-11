@@ -4,3 +4,360 @@
 {"message":"Corriendo en el puerto 3000.","level":"info"}
 {"message":"Corriendo en el puerto 3000.","level":"info"}
 {"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 5.196 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 0.597 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 2 - 15.427 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: validarProducto is not defined\nReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.validate.js:28:18)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:5:25)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)","stack":"ReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.validate.js:28:18)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:5:25)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)","exception":true,"date":"Fri Dec 07 2018 20:39:37 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":6448,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":55726080,"heapTotal":36532224,"heapUsed":22374000,"external":18461549}},"os":{"loadavg":[0,0,0],"uptime":1159023.7971437},"trace":[{"column":18,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.validate.js","function":null,"line":28,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":25,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js","function":null,"line":5,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false}]}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /productos HTTP/1.1 200 498 - 16.809 ms","level":"info"}
+{"message":"::1 - POST /productos HTTP/1.1 401 - - 2.704 ms","level":"info"}
+{"message":"::1 - GET /productos/5bfadad2a3c7a527e4c7c0ca HTTP/1.1 200 114 - 6.150 ms","level":"info"}
+{"message":"::1 - PUT /productos/5bfae8d69076c42788815685 HTTP/1.1 401 - - 1.245 ms","level":"info"}
+{"message":"::1 - DELETE /productos/5bfae15d959fef14c0efe5a3 HTTP/1.1 401 - - 0.300 ms","level":"info"}
+{"message":"Email [ingrid@gmail.com] o username [ingrid] ya existen en la base de datos","level":"warn"}
+{"message":"::1 - POST /usuarios HTTP/1.1 409 51 - 12.397 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 200 495 - 1.820 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /usuarios/login HTTP/1.1 200 183 - 102.793 ms","level":"info"}
+{"message":"::1 - POST /productos HTTP/1.1 401 - - 0.269 ms","level":"info"}
+{"message":"::1 - GET /productos HTTP/1.1 200 498 - 1.893 ms","level":"info"}
+{"message":"::1 - GET /productos HTTP/1.1 200 498 - 1.747 ms","level":"info"}
+{"message":"::1 - GET /productos HTTP/1.1 200 498 - 1.835 ms","level":"info"}
+{"message":"::1 - POST /productos HTTP/1.1 401 - - 0.227 ms","level":"info"}
+{"message":"::1 - GET /productos/5bfadad2a3c7a527e4c7c0ca HTTP/1.1 200 114 - 1.344 ms","level":"info"}
+{"message":"::1 - PUT /productos/5bfae8d69076c42788815685 HTTP/1.1 401 - - 0.213 ms","level":"info"}
+{"message":"::1 - DELETE /productos/5bfae15d959fef14c0efe5a3 HTTP/1.1 401 - - 0.272 ms","level":"info"}
+{"message":"Email [ingrid@gmail.com] o username [ingrid] ya existen en la base de datos","level":"warn"}
+{"message":"::1 - POST /usuarios HTTP/1.1 409 51 - 2.115 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 200 495 - 1.747 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /usuarios/login HTTP/1.1 200 183 - 89.256 ms","level":"info"}
+{"message":"::1 - POST /productos HTTP/1.1 401 - - 0.198 ms","level":"info"}
+{"message":"::1 - GET /productos HTTP/1.1 200 498 - 1.710 ms","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 0.891 ms","level":"info"}
+{"message":"::1 - POST /productos HTTP/1.1 401 - - 0.288 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 200 495 - 1.648 ms","level":"info"}
+{"message":"Email [ingrid@gmail.com] o username [ingrid] ya existen en la base de datos","level":"warn"}
+{"message":"::1 - POST /usuarios HTTP/1.1 409 51 - 2.286 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /usuarios/login HTTP/1.1 200 183 - 81.230 ms","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 0.127 ms","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 0.097 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: validarProducto is not defined\nReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:63:48)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:9:27)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Function.Module.runMain (module.js:694:10)\n    at startup (bootstrap_node.js:204:16)","stack":"ReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:63:48)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:9:27)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Function.Module.runMain (module.js:694:10)\n    at startup (bootstrap_node.js:204:16)","exception":true,"date":"Fri Dec 07 2018 20:56:01 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":4408,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":54697984,"heapTotal":38629376,"heapUsed":19323216,"external":18536574}},"os":{"loadavg":[0,0,0],"uptime":1160007.7332501},"trace":[{"column":48,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js","function":null,"line":63,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":27,"file":"H:\\API_LABORION\\api_angerman_oficial\\index.js","function":null,"line":9,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":694,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":204,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: validarProducto is not defined\nReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:63:48)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:9:27)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Function.Module.runMain (module.js:694:10)\n    at startup (bootstrap_node.js:204:16)","stack":"ReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:63:48)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:9:27)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Function.Module.runMain (module.js:694:10)\n    at startup (bootstrap_node.js:204:16)","exception":true,"date":"Fri Dec 07 2018 20:56:17 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":4928,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":55431168,"heapTotal":38629376,"heapUsed":19266992,"external":18484706}},"os":{"loadavg":[0,0,0],"uptime":1160023.4397397},"trace":[{"column":48,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js","function":null,"line":63,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":27,"file":"H:\\API_LABORION\\api_angerman_oficial\\index.js","function":null,"line":9,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":694,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":204,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: validarProducto is not defined\nReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:63:48)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:9:27)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Function.Module.runMain (module.js:694:10)\n    at startup (bootstrap_node.js:204:16)","stack":"ReferenceError: validarProducto is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js:63:48)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:9:27)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Function.Module.runMain (module.js:694:10)\n    at startup (bootstrap_node.js:204:16)","exception":true,"date":"Fri Dec 07 2018 20:56:47 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":8704,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":55427072,"heapTotal":38105088,"heapUsed":19017888,"external":18469744}},"os":{"loadavg":[0,0,0],"uptime":1160053.7521236},"trace":[{"column":48,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\profesiones\\profesiones.routes.js","function":null,"line":63,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":27,"file":"H:\\API_LABORION\\api_angerman_oficial\\index.js","function":null,"line":9,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":694,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":204,"method":null,"native":false}]}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 2.393 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 500 1974 - 1.636 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 500 1974 - 0.425 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 2 - 21.499 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 2 - 2.522 ms","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 0.996 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 1.528 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 2 - 10.919 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.423 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesion HTTP/1.1 404 149 - 1.524 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0b26f9d7ea69249cc2fcac","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0b26f9d7ea69249cc2fcac","nombProfesion":"BIOLOGO","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 68 - 319.027 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 70 - 3.992 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.694 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.554 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.645 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 70 - 1.232 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 70 - 1.368 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.869 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.323 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.255 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.470 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 16.515 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.499 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 26.851 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 24.569 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 22.467 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 27.660 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.771 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.364 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.025 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.238 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.665 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.316 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.395 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.672 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.257 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.358 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.284 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.969 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.587 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.736 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.592 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.798 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.651 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.728 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.269 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.489 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.334 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.531 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.373 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.128 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.211 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.184 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.302 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.236 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.226 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.096 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.852 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.279 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.484 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.457 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0bdbaed2358622a85ca14d","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0bdbaed2358622a85ca14d","nombProfesion":"ODONTOLOGO","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 71 - 26.183 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 142 - 2.014 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.136 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.674 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.532 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.263 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.528 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.888 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.302 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.513 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.803 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.493 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.662 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.675 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.719 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.437 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.839 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.337 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.089 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.515 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.888 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.324 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.171 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.517 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.355 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.585 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.525 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.862 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.437 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.389 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.465 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.649 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.201 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.626 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.287 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.381 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.034 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.743 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.668 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.706 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.617 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.995 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.672 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.319 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.901 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.352 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.349 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.137 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.878 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.191 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.907 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.607 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.122 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.296 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 142 - 2.633 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 31.186 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.917 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.069 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.516 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.260 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 2.095 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.731 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.679 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.397 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.278 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.503 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.315 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.268 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.565 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.438 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.517 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.011 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.864 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.477 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.445 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.240 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.320 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.348 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.005 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.365 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 368.284 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.845 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.255 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.470 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.641 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.201 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.211 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.283 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.211 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.284 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.653 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.367 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.500 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.703 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.751 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.493 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.372 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.251 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.183 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.666 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.847 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.210 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.268 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.702 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.736 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.330 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.464 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.103 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.051 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.233 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.197 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.159 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.224 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.220 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.227 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.035 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.648 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.190 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.646 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.942 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.376 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.384 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.413 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.760 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.805 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.288 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.833 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.556 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.235 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.210 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.601 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.278 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.467 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.500 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.136 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.794 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.424 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.621 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.610 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.078 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.366 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.127 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.207 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.277 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.294 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.542 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.188 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.280 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.309 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.897 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 2.570 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.387 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.191 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.997 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.166 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.064 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.123 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.055 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.174 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.119 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.167 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.860 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.129 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /usuarios/login HTTP/1.1 200 183 - 123.828 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.820 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.114 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.492 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.134 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 142 - 1.650 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 2.659 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0c894c72c7412cf89c4a3d","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0c894c72c7412cf89c4a3d","nombProfesion":"ENFERMERIA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 71 - 15.592 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 214 - 2.650 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.148 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.990 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.914 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.357 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.029 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.266 ms","level":"info"}
+{"message":"::1 - POST /profesiones/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViZmI0MjlhYmFmOWMyMTQzNDAzZGY4NiIsImlhdCI6MTU0NDMyNTM3MiwiZXhwIjoxNTQ0NDExNzcyfQ.x1TxFPgguW62mgBBB3tvbIE7W_b4OMivbovnGEcF0jU HTTP/1.1 404 323 - 0.671 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.890 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.317 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.342 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.189 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.959 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c0c8b2072c7412cf89c4a3e","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c0c8b2072c7412cf89c4a3e","nombProfesion":"MEDICO","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 67 - 7.321 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 282 - 1.589 ms","level":"info"}
+{"message":"::1 - POST /profesiones/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViZmI0MjlhYmFmOWMyMTQzNDAzZGY4NiIsImlhdCI6MTU0NDMyNTM3MiwiZXhwIjoxNTQ0NDExNzcyfQ.x1TxFPgguW62mgBBB3tvbIE7W_b4OMivbovnGEcF0jU HTTP/1.1 404 323 - 0.510 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.147 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.986 ms","level":"info"}
+{"message":"::1 - POST /profesiones/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViZmI0MjlhYmFmOWMyMTQzNDAzZGY4NiIsImlhdCI6MTU0NDMyNTM3MiwiZXhwIjoxNTQ0NDExNzcyfQ.x1TxFPgguW62mgBBB3tvbIE7W_b4OMivbovnGEcF0jU HTTP/1.1 404 323 - 0.442 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.681 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViZmI0MjlhYmFmOWMyMTQzNDAzZGY4NiIsImlhdCI6MTU0NDMyNTM3MiwiZXhwIjoxNTQ0NDExNzcyfQ.x1TxFPgguW62mgBBB3tvbIE7W_b4OMivbovnGEcF0jU HTTP/1.1 404 323 - 3.636 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 28.090 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.660 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 9.681 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.036 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 117 - 15.783 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 26.670 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 32.160 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 1.129 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.438 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.384 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.286 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 28.825 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.679 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.660 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 2000 - 0.273 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}

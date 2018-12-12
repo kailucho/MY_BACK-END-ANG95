@@ -81,11 +81,11 @@ usuariosRouter.post('/login', validarPedidoDeLogin, async (req, res) => {
         res.status(500).send(`Error ocurrió durante el proceso de login (contraseña).`)
         return
     }
-
+     let userUsername = usuarioNoAutenticado.username
     if (contraseñaCorrecta) {
         let token = jwt.sign({ id: usuarioRegistrado.id }, config.jwt.secreto, { expiresIn: config.jwt.tiempoDeExpiración })
         log.info(`Usuario ${usuarioNoAutenticado.username} completo autenticación exitosamente.`)
-        res.status(200).json({ token })
+        res.status(200).json({ token, userUsername})
     } else {
         log.info(`Usuario ${usuarioNoAutenticado.username} no completo autenticación. Contraseña incorrecta`)
         res.status(400).send('Credenciales incorrectas. Asegúrese que el username y contraseña sean correctas')

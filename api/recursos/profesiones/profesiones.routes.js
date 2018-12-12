@@ -123,12 +123,12 @@ profesionesRouter.delete('/:id', [jwtAutenticate, validarIdDeMongo], async (req,
     }
 
     try {
-        let productoBorrado = await profesionController.borrarProducto(id)
-        log.info(`Producto con id [${id}] fue borrado`)
+        let productoBorrado = await profesionController.borrarProfesion(id)
+        log.info(`Profesion con id [${id}] fue borrado`)
         res.json(productoBorrado)
 
     } catch (err) {
-        res.status(500).send(`Error ocurrió borrando producto con id[ ${id}]`)
+        res.status(500).send(`Error ocurrió borrando Profesion con id[ ${id}]`)
     }
 })
 

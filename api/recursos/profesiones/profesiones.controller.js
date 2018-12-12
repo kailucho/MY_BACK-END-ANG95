@@ -16,9 +16,9 @@ function obtenerProducto(id) {
     return Producto.findById(id)
 }
 
-// ELIMINA un producto por ID
-function borrarProducto(id) {
-    return Producto.findByIdAndDelete(id)
+// ELIMINA una Profesion por ID
+function borrarProfesion(id) {
+    return Profesion.findByIdAndDelete(id)
 }
 
 function reemplazarProducto(id, producto, username) {
@@ -36,6 +36,6 @@ module.exports = {
     crearProfesion,
     obtenerProfesiones,
     obtenerProducto,
-    borrarProducto,
+    borrarProfesion,
     reemplazarProducto
 }

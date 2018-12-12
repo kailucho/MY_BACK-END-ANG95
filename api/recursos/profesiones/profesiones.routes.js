@@ -31,9 +31,10 @@ profesionesRouter.get('/', (req, res) => {
         })
 })
 
-profesionesRouter.post('/',  validarProfesion, (req, res) => {
-    profesionController.crearProfesion(req.body)
+profesionesRouter.post('/', [jwtAutenticate, validarProfesion] , (req, res) => {
+    console.log('tu log>: ', req)
     // profesionController.crearProfesion(req.body, req.user.username)
+    profesionController.crearProfesion(req.body)
         .then(profesion => {
             log.info("Profesion agregada a la colección profesion", profesion)
             res.status(201).json(profesion)

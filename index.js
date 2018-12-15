@@ -8,6 +8,8 @@ const cors = require('express-cors')
 const productosRouter = require('./api/recursos/productos/productos.routes')
 const usuariosRouter = require('./api/recursos/usuarios/usuarios.routes')
 const profesionesRouter = require('./api/recursos/profesiones/profesiones.routes')
+const examenesRouter = require('./api/recursos/examenes/examenes.routes')
+
 const logger = require('./utils/logger')
 const authJWT = require('./api/libs/auth')
 const config = require('./config')
@@ -41,6 +43,7 @@ app.use(passport.initialize())
 app.use('/usuarios', usuariosRouter)
 app.use('/productos', productosRouter)
 app.use('/profesiones', profesionesRouter)
+app.use('/examenes', examenesRouter)
 
 app.use(errorHandler.procesarErroresDeDB)
 if (config.ambiente === 'prod') {

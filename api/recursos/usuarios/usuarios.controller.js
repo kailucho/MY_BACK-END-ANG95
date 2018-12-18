@@ -1,46 +1,41 @@
-const Usuario = require('./usuarios.model')
+const Profesion = require('./usuarios.model')
 
-function obtenerUsuarios() {
-    return Usuario.find({})
-}
-
-function crearUsuario(usuario, hashedPassword) {
-    return new Usuario({
-        ...usuario,
-        password: hashedPassword
+function crearProfesion(producto, dueño) {
+    return new Profesion({
+        ...producto
     }).save()
 }
 
-function usuarioExiste(username, email) {
-    return new Promise((resolve, reject) => {
-        Usuario.find().or([{
-                'username': username
-            }, {
-                'email': email
-            }])
-            .then(usuarios => {
-                resolve(usuarios.length > 0)
-            })
-            .catch(err => {
-                reject(err)
-            })
-    })
+// obtiene Profesiones sin filtrar por nada todos lo registros
+function obtenerProfesiones() {
+     return Profesion.find({})
 }
 
-function obtenerUsuario({
-    username: username,
-    id: id
-}) {
-    if (username) return Usuario.findOne({
-        username: username
+// obtiene producto  filtra por ID
+function obtenerProducto(id) {
+    return Producto.findById(id)
+}
+
+// ELIMINA una Profesion por ID
+function borrarProfesion(id) {
+    return Profesion.findByIdAndDelete(id)
+}
+
+function reemplazarProducto(id, producto, username) {
+    return Producto.findOneAndUpdate({
+        _id: id
+    }, {
+        ...producto,
+        dueño: username
+    }, {
+        new: true // La opción new es para que la llamada regrese el nuevo documento modificado
     })
-    if (id) return Usuario.findById(id)
-    throw new Error("Función obtener usuario del controller fue llamada sin especificar username o id.")
 }
 
 module.exports = {
-    obtenerUsuarios,
-    crearUsuario,
-    usuarioExiste,
-    obtenerUsuario
+    crearProfesion,
+    obtenerProfesiones,
+    obtenerProducto,
+    borrarProfesion,
+    reemplazarProducto
 }

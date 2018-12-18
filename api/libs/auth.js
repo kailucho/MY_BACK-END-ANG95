@@ -4,7 +4,7 @@ const passportJWT = require('passport-jwt')
 
 const log = require('../../utils/logger')
 const config = require('./../../config')
-const usuarioController = require('../recursos/usuarios/usuarios.controller')
+const usuarioController = require('../recursos/loginusuarios/loginusuarios.controller')
 
 
 // Token debe de ser especificado mediante el header "Autorization. Eje:

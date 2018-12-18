@@ -118,7 +118,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "VSG",
         "grupo2": [
             {
@@ -148,7 +148,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "PERFIL RENAL",
         "grupo2": [
             {
@@ -169,7 +169,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "PERFIL LIPIDICO",
         "grupo2": [
             {
@@ -196,7 +196,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "PERFIL HEPATICO",
         "grupo2": [
             {
@@ -235,7 +235,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "PERFIL PANCREATICO",
         "grupo2": [
             {
@@ -307,7 +307,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             },
-        ],
+        ]},{
         "nomb_examenGrupo1": "EXAMEN QUIMICO",
         "grupo2": [
             {
@@ -358,7 +358,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "SEDIMENTO URINARIO",
         "grupo2": [
             {
@@ -427,7 +427,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "TASS",
         "grupo2": [
             {
@@ -464,7 +464,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "PARASITOLOGICO SERIADO",
         "grupo2": [
             {
@@ -485,7 +485,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "REACCION INFLAMATORIA",
         "grupo2": [
             {
@@ -512,7 +512,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "GRAHAM",
         "grupo2": [
             {
@@ -521,7 +521,7 @@ db.examenes.insert({
                 "precio": 12.66,
                 "resultado": "vacio por ahora"
             }
-        ],
+        ]},{
         "nomb_examenGrupo1": "COPROFUNCIONAL",
         "grupo2": [
             {

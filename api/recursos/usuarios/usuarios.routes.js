@@ -1,96 +1,135 @@
 const express = require('express')
 const _ = require('underscore')
-const uuidv4 = require('uuid/v4')
-const bcrypt = require('bcryptjs')
-const jwt = require('jsonwebtoken')
+const passport = require('passport')
 
+const validarProfesion = require('./usuarios.validate')
 const log = require('../../../utils/logger')
-const validarUsuario = require('./usuarios.validate').validarUsuario
-const validarPedidoDeLogin = require('./usuarios.validate').validarPedidoDeLogin
-const config = require('../../../config')
-const usuarioController = require('./usuarios.controller')
+const profesionController = require('./profesiones.controller')
 
-const usuariosRouter = express.Router()
+const jwtAutenticate = passport.authenticate('jwt', { session: false })
+const profesionesRouter = express.Router()
+// -------------------------requires----------------------------♥
 
-usuariosRouter.get('/', (req, res) => {
-    usuarioController.obtenerUsuarios()
-        .then(usuarios => {
-            res.json(usuarios)
+
+function validarIdDeMongo(req, res, next) {
+    let id = req.params.id
+    // regex = expresion regular
+    if (id.match(/^[a-fA-F0-9]{24}$/) === null) {
+        res.status(400).send(`El id [${id}] suminstrado en el URL no es válido.`)
+        return
+    }
+    next()
+}
+
+profesionesRouter.get('/', (req, res) => {
+    profesionController.obtenerProfesiones()
+        .then(profesiones => {
+            res.json(profesiones)
         })
-        .catch(err =>{
-            log.error(`Error al obtener todos los usuarios`, err)
-            res.sendStatus(500)
+        .catch(err => {
+            res.status(500).send('Error al leer los productos de la base de datos.')
         })
 })
 
-usuariosRouter.post('/', validarUsuario, (req, res) => {
-    let nuevoUsuario = req.body
+profesionesRouter.post('/', [jwtAutenticate, validarProfesion] , (req, res) => {
+    console.log('tu log>: ', req)
+    // profesionController.crearProfesion(req.body, req.user.username)
+    profesionController.crearProfesion(req.body)
+        .then(profesion => {
+            log.info("Profesion agregada a la colección profesion", profesion)
+            res.status(201).json(profesion)
+        })
+        .catch(err => {
+            log.error("Profesion no pudo ser creada", err)
+            res.status(500).send('Error ocurrió al tratar de crear el producto.')
+        })
 
-    usuarioController.usuarioExiste(nuevoUsuario.username, nuevoUsuario.email)
-        .then(usuarioExiste => {
-            if (usuarioExiste) {
-                log.warn(`Email [${nuevoUsuario.email}] o username [${nuevoUsuario.username}] ya existen en la base de datos`)
-                res.status(409).send(`El email o usuario ya estan asociados con un cuenta`)
-                return
+})
+
+profesionesRouter.get('/:id', validarIdDeMongo, (req, res) => {
+    let id = req.params.id
+    profesionController.obtenerProducto(id)
+        .then(producto => {
+            if (!producto) {
+                res.status(404).send(`Producto con id [${id}] no existe.`)
+            } else {
+                res.json(producto)
             }
-
-            bcrypt.hash(nuevoUsuario.password, 10, (err, hashedPassword) => {
-                if (err) {
-                    log.error(`Error ocurrió al tratar de obtener el hash de una contraseña`, err)
-                    res.status(500).send(`Error procesando creación del contraseña.`)
-                    return
-                }
-
-                usuarioController.crearUsuario(nuevoUsuario, hashedPassword)
-                    .then(nuevoUsario => {
-                        res.status(201).send('Usuario creado exitósamente.')
-                    })
-                    .catch(err => {
-                        log.error(`Error ocurrió al tratar de obtener el hash de un nuevo usuario`, err)
-                        res.status(500).send(`Error ocurrió al tratar de crear nuevo usuario.`)
-                    })
-            })
+        })
+        .catch(err => {
+            log.error(`Excepción ocurrió al tratar de obtener por id [${id}] el producto`, err)
+            res.status(500).send(`Error ocurrió al tratar de obtener el producto con id [${id}].-------`, err)
         })
 })
 
-usuariosRouter.post('/login', validarPedidoDeLogin, async (req, res) => {
-    let usuarioNoAutenticado = req.body
-    let usuarioRegistrado
+profesionesRouter.put('/:id', [jwtAutenticate, validarProfesion], async (req, res) => {
+    let id = req.params.id
+    let requestUsuario = req.user.username
+    let productoAReemplazar
 
-    try{
-        usuarioRegistrado = await usuarioController.obtenerUsuario({
-            username: usuarioNoAutenticado.username
+    try {
+        productoAReemplazar = await profesionController.obtenerProducto(id)
+    } catch (err) {
+        log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
+        res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
+        return
+    }
+
+    if (!productoAReemplazar) {
+        res.status(404).send(`El producto con id [${id}] no existe.`)
+        return
+    }
+
+    if (productoAReemplazar.dueño !== requestUsuario) {
+        log.warn(`Usuario [${requestUsuario}] no es dueño de producto con id [${id}]. Dueño real es [${productoAReemplazar.dueño}]. Request no será procesado`)
+        res.status(401).send(`No eres dueño del producto con id [${id}]. Solo puedes modificar productos creados por ti.`)
+    }
+
+    profesionController.reemplazarProducto(id, req.body, requestUsuario)
+        .then(producto => {
+            res.json(producto)
+            log.info(`Producto con id [${id}] reemplazado con nuevo producto`, producto)
         })
-    } catch(err){
-        log.error(`Error ocurrió al tratar de determinar si el usuario [${usuarioNoAutenticado.username}], ya existe`, err)
-        res.status(500).send(`Error ocurrió durante el proceso de login.`)
+        .catch(err => {
+            log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
+            res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
+        })
+})
+
+profesionesRouter.delete('/:id', [jwtAutenticate, validarIdDeMongo], async (req, res) => {
+    let id = req.params.id
+    let productoABorrar
+
+    try {
+        productoABorrar = await profesionController.obtenerProducto(id)
+    } catch (err) {
+        log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
+        res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
         return
     }
 
-    if (!usuarioRegistrado) {
-        log.info(`Usuario [${usuarioNoAutenticado.username}] no existe. No pudo ser autenticado`)
-        res.status(400).send('Credenciales incorrectas. Asegurese que el username y contraseña sean correctos.')
+
+    if (!productoABorrar) {
+        log.info(`Producto con id [${id}] no existe. Nada que borrar`)
+        res.status(404).send(`Producto con id [${id}] no existe. Nada que borrar.`)
         return
     }
 
-    let contraseñaCorrecta
-    try{
-        contraseñaCorrecta = bcrypt.compare(usuarioNoAutenticado.password, usuarioRegistrado.password)
-    }catch(err){
-        log.error(`Error ocurrió al tratar de verificar si la contraseña es correcta`, err)
-        res.status(500).send(`Error ocurrió durante el proceso de login (contraseña).`)
+    let usuarioAutenticado = req.user.username
+    if (productoABorrar.dueño !== usuarioAutenticado) {
+        log.info(`Usuario [${usuarioAutenticado}] no es dueño de producto con id [${id}]. Dueño real es [${productoABorrar.dueño}]. Request no será procesado`)
+        res.status(401).send(`No eres dueño del producto con id [${id}]. Solo puedes borrar productos creados por ti.`)
         return
     }
-     let userUsername = usuarioNoAutenticado.username
-    if (contraseñaCorrecta) {
-        let token = jwt.sign({ id: usuarioRegistrado.id }, config.jwt.secreto, { expiresIn: config.jwt.tiempoDeExpiración })
-        log.info(`Usuario ${usuarioNoAutenticado.username} completo autenticación exitosamente.`)
-        res.status(200).json({ token, userUsername})
-    } else {
-        log.info(`Usuario ${usuarioNoAutenticado.username} no completo autenticación. Contraseña incorrecta`)
-        res.status(400).send('Credenciales incorrectas. Asegúrese que el username y contraseña sean correctas')
-        return
+
+    try {
+        let productoBorrado = await profesionController.borrarProfesion(id)
+        log.info(`Profesion con id [${id}] fue borrado`)
+        res.json(productoBorrado)
+
+    } catch (err) {
+        res.status(500).send(`Error ocurrió borrando Profesion con id[ ${id}]`)
     }
 })
 
-module.exports = usuariosRouter
+module.exports = profesionesRouter

@@ -1,21 +1,9 @@
 const mongoose = require('mongoose')
 
-const usuarioSchema = new mongoose.Schema({
-  username: {
-    type: String,
-    minlength: 1,
-    required: [true, 'Usuario debe tener un username']
-  },
-  password: {
-    type: String,
-    minlength: 1,
-    required: [true, 'Usuario debe tener una contraseña']
-  },
-  email: {
-    type: String,
-    minlength: 1,
-    required: [true, 'Usuario debe tener un email']
-  }
+const profesionSchema = new mongoose.Schema({
+    nombProfesion: {
+        type: String,
+        required: [true, 'La profesión debe de tener un nombre']
+    }
 })
-
-module.exports = mongoose.model('usuario', usuarioSchema)
+module.exports = mongoose.model('profesion', profesionSchema)

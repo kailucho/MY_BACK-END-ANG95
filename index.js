@@ -6,7 +6,7 @@ const mongoose = require('mongoose')
 const cors = require('express-cors')
 
 const productosRouter = require('./api/recursos/productos/productos.routes')
-const usuariosRouter = require('./api/recursos/usuarios/usuarios.routes')
+const loginusuariosRouter = require('./api/recursos/loginusuarios/loginusuarios.routes')
 const profesionesRouter = require('./api/recursos/profesiones/profesiones.routes')
 const examenesRouter = require('./api/recursos/examenes/examenes.routes')
 
@@ -40,7 +40,7 @@ app.use(morgan('short', {
 
 app.use(passport.initialize())
 
-app.use('/usuarios', usuariosRouter)
+app.use('/loginusuarios', loginusuariosRouter)
 app.use('/productos', productosRouter)
 app.use('/profesiones', profesionesRouter)
 app.use('/examenes', examenesRouter)

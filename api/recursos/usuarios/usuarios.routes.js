@@ -49,7 +49,7 @@ usuariosRouter.post('/', [jwtAutenticate, validarProfesion] , (req, res) => {
 usuariosRouter.get('/:id', validarIdDeMongo, (req, res) => {
     let id = req.params.id
     console.log('el id>>', req.params)
-    usuarioController.obtenerUsuario(id)
+    usuarioController.obtenerUsuario(Number(id))
         .then(usuario => {
             if (!usuario) {
                 res.status(404).send(`usuario con id [${id}] no existe.`)

@@ -1106,3 +1106,178 @@
 {"message":"Corriendo en el puerto 3000.","level":"info"}
 {"message":"Corriendo en el puerto 3000.","level":"info"}
 {"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"error":{"code":"MODULE_NOT_FOUND"},"level":"error","message":"uncaughtException: Cannot find module './profesiones.controller'\nError: Cannot find module './profesiones.controller'\n    at Function.Module._resolveFilename (module.js:548:15)\n    at Function.Module._load (module.js:475:25)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js:7:29)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:10:24)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","stack":"Error: Cannot find module './profesiones.controller'\n    at Function.Module._resolveFilename (module.js:548:15)\n    at Function.Module._load (module.js:475:25)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js:7:29)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:10:24)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","exception":true,"date":"Mon Dec 17 2018 21:49:15 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":3340,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":52629504,"heapTotal":35471360,"heapUsed":21244832,"external":19059493}},"os":{"loadavg":[0,0,0],"uptime":9481.4299934},"trace":[{"column":15,"file":"module.js","function":"Module._resolveFilename","line":548,"method":"_resolveFilename","native":false},{"column":25,"file":"module.js","function":"Module._load","line":475,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":29,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":24,"file":"H:\\API_LABORION\\api_angerman_oficial\\index.js","function":null,"line":10,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false}]}
+{"error":{"code":"MODULE_NOT_FOUND"},"level":"error","message":"uncaughtException: Cannot find module './profesiones.controller'\nError: Cannot find module './profesiones.controller'\n    at Function.Module._resolveFilename (module.js:548:15)\n    at Function.Module._load (module.js:475:25)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js:7:29)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:10:24)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","stack":"Error: Cannot find module './profesiones.controller'\n    at Function.Module._resolveFilename (module.js:548:15)\n    at Function.Module._load (module.js:475:25)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js:7:29)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:10:24)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","exception":true,"date":"Mon Dec 17 2018 21:49:20 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":9548,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":52162560,"heapTotal":35471360,"heapUsed":21891320,"external":19085601}},"os":{"loadavg":[0,0,0],"uptime":9486.1662403},"trace":[{"column":15,"file":"module.js","function":"Module._resolveFilename","line":548,"method":"_resolveFilename","native":false},{"column":25,"file":"module.js","function":"Module._load","line":475,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":29,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":24,"file":"H:\\API_LABORION\\api_angerman_oficial\\index.js","function":null,"line":10,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false}]}
+{"error":{"code":"MODULE_NOT_FOUND"},"level":"error","message":"uncaughtException: Cannot find module './profesiones.controller'\nError: Cannot find module './profesiones.controller'\n    at Function.Module._resolveFilename (module.js:548:15)\n    at Function.Module._load (module.js:475:25)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js:7:29)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:10:24)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","stack":"Error: Cannot find module './profesiones.controller'\n    at Function.Module._resolveFilename (module.js:548:15)\n    at Function.Module._load (module.js:475:25)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js:7:29)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\index.js:10:24)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","exception":true,"date":"Mon Dec 17 2018 21:50:03 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":11108,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":52441088,"heapTotal":35471360,"heapUsed":21321784,"external":19059493}},"os":{"loadavg":[0,0,0],"uptime":9529.0348283},"trace":[{"column":15,"file":"module.js","function":"Module._resolveFilename","line":548,"method":"_resolveFilename","native":false},{"column":25,"file":"module.js","function":"Module._load","line":475,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":29,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\usuarios\\usuarios.routes.js","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":24,"file":"H:\\API_LABORION\\api_angerman_oficial\\index.js","function":null,"line":10,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false}]}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 200 207 - 19.824 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/5c185148844832dd13318b34 HTTP/1.1 200 205 - 35.410 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/5c185148844832dd13318b34 HTTP/1.1 304 - - 24.083 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 200 410 - 5.822 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.136 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c185148844832dd13318b34 HTTP/1.1 304 - - 2.839 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 200 202 - 1.951 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 55.669 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.755 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.401 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.915 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.797 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.643 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 7.280 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.212 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.399 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 3.816 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.601 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.364 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.275 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.975 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.499 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.417 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.023 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 2.538 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.485 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.340 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.623 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 2.556 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.377 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.285 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.911 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.401 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.440 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.743 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.445 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.571 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.399 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.866 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.323 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.851 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.330 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.184 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.962 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.476 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.305 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.712 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.341 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.377 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.037 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.212 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.331 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.545 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.419 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.269 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 2.079 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.509 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.333 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.890 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.737 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.005 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.321 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.301 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.969 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.376 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.793 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.297 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.514 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 2.100 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.475 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.415 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.950 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 200 410 - 4.273 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.868 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 1.441 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c185148844832dd13318b34 HTTP/1.1 304 - - 1.908 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.789 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 1.594 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 404 37 - 79.548 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.326 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 17.826 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.378 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 20.423 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 2.371 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 3.601 ms","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 200 202 - 28.113 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 304 - - 44.368 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 200 2 - 37.715 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 15.101 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.520 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.386 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 3.792 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 62.177 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 3.426 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.325 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.472 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.240 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.334 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 23.377 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 1.267 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 64.937 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 2.967 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.131 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 1.292 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 33.701 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 1.414 ms","level":"info"}
+{"message":"Excepción ocurrió al tratar de obtener por id [5c1861e9844832dd13318b35] el usuario","name":"CastError","stringValue":"\"{ dni: '5c1861e9844832dd13318b35' }\"","kind":"ObjectId","value":{"dni":"5c1861e9844832dd13318b35"},"path":"_id","level":"error"}
+{"message":"::1 - GET /usuarios/5c1861e9844832dd13318b35 HTTP/1.1 - - - 49.199 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 400 53 - 0.733 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 55.958 ms","level":"info"}
+{"message":"Excepción ocurrió al tratar de obtener por id [75871182] el usuario","name":"CastError","stringValue":"\"{ dni: '75871182' }\"","kind":"ObjectId","value":{"dni":"75871182"},"path":"_id","level":"error"}
+{"message":"Excepción ocurrió al tratar de obtener por id [75871182] el usuario","name":"CastError","stringValue":"\"{ dni: '75871182' }\"","kind":"ObjectId","value":{"dni":"75871182"},"path":"_id","level":"error"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 400 53 - 4.339 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 57.910 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 400 53 - 0.467 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 50.134 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 5.405 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.307 ms","level":"info"}
+{"message":"Excepción ocurrió al tratar de obtener por id [75871182] el usuario","name":"CastError","stringValue":"\"{ dni: '75871182' }\"","kind":"ObjectId","value":{"dni":"75871182"},"path":"_id","level":"error"}
+{"message":"Excepción ocurrió al tratar de obtener por id [75871182] el usuario","name":"CastError","stringValue":"\"{ dni: '75871182' }\"","kind":"ObjectId","value":{"dni":"75871182"},"path":"_id","level":"error"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 39.669 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 2 - 7.085 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.416 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 34.493 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 5.297 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 2 - 3.547 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 29.597 ms","level":"info"}
+{"message":"Excepción ocurrió al tratar de obtener por id [76540444] el usuario","name":"CastError","stringValue":"\"{ dni: '76540444' }\"","kind":"ObjectId","value":{"dni":"76540444"},"path":"_id","level":"error"}
+{"message":"::1 - GET /usuarios/ds HTTP/1.1 400 47 - 0.734 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 28.561 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.216 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}

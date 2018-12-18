@@ -1,4 +1,4 @@
-const Profesion = require('./usuarios.model')
+const Usuario = require('./usuarios.model')
 
 function crearProfesion(producto, dueño) {
     return new Profesion({
@@ -6,14 +6,14 @@ function crearProfesion(producto, dueño) {
     }).save()
 }
 
-// obtiene Profesiones sin filtrar por nada todos lo registros
-function obtenerProfesiones() {
-     return Profesion.find({})
+// obtiene Usuarios sin filtrar por nada todos lo registros
+function obtenerUsuarios() {
+     return Usuario.find({})
 }
 
 // obtiene producto  filtra por ID
-function obtenerProducto(id) {
-    return Producto.findById(id)
+function obtenerUsuario(id) {
+    return Usuario.find({dni: id})
 }
 
 // ELIMINA una Profesion por ID
@@ -34,8 +34,8 @@ function reemplazarProducto(id, producto, username) {
 
 module.exports = {
     crearProfesion,
-    obtenerProfesiones,
-    obtenerProducto,
+    obtenerUsuarios,
+    obtenerUsuario,
     borrarProfesion,
     reemplazarProducto
 }

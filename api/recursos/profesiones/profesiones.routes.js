@@ -32,7 +32,6 @@ profesionesRouter.get('/', (req, res) => {
 })
 
 profesionesRouter.post('/', [jwtAutenticate, validarProfesion] , (req, res) => {
-    console.log('tu log>: ', req)
     // profesionController.crearProfesion(req.body, req.user.username)
     profesionController.crearProfesion(req.body)
         .then(profesion => {

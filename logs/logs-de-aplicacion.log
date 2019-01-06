@@ -1517,3 +1517,1371 @@
 {"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.896 ms","level":"info"}
 {"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.107 ms","level":"info"}
 {"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.516 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 27.443 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 207 - 3.859 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 204 - 2.622 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.074 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.596 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.969 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.916 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.144 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.753 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75877182 HTTP/1.1 200 2 - 2.111 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.250 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.423 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.424 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.750 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.200 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.581 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.600 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.775 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.516 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.869 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.085 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.154 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.252 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.666 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.169 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.620 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.053 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.839 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.409 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.991 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.826 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.072 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.312 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.750 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.181 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.406 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.534 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.376 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.302 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.577 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.728 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.592 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.157 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.453 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.636 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.046 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.533 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.291 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.389 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.603 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.817 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.755 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.965 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.472 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.381 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.875 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.152 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.817 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.481 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.672 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.095 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.706 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.667 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.760 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 207 - 2.003 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.471 ms","level":"info"}
+{"message":"::1 - GET /usuarios/758711823 HTTP/1.1 400 54 - 0.602 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.093 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 204 - 1.904 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.813 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.194 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.559 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.315 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.472 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.762 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.920 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.134 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.453 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.829 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 170.067 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 6.323 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 207 - 5.449 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.994 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.186 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.725 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.711 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.546 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.260 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.275 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.876 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.625 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.635 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.435 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.318 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.548 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.690 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.116 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.333 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.612 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.344 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.355 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.677 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.262 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.821 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.257 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.508 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.682 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.249 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.646 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.204 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.391 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 2.273 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.117 ms","level":"info"}
+{"message":"::1 - GET /usuarios/german HTTP/1.1 400 51 - 0.305 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.810 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.437 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.038 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.756 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.613 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 37.716 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 16.535 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 858 - 5.911 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.067 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 220 - 10.608 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.629 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.249 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 220 - 2.337 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.101 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.796 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.231 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.600 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 220 - 2.206 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.985 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.362 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 220 - 2.062 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 1.946 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 2.482 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.474 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.119 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.089 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.361 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.210 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.226 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.060 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 2.037 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 1.856 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.302 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.079 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.002 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.715 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.880 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.359 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.918 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.711 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.403 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 1.991 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.912 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 1.701 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.477 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.404 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.735 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.628 ms","level":"info"}
+{"message":"::1 - GET /usuarios/german HTTP/1.1 400 51 - 0.647 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.699 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.312 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.437 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.253 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.134 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 2.007 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.476 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.460 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.402 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.071 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.612 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.779 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.411 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.579 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.739 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.498 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.505 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.440 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.086 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.542 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.221 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.997 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.102 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.907 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.284 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.162 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.899 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.770 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.573 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.939 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.733 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.538 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.516 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.632 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.664 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.413 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.762 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.597 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.177 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.493 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.414 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.391 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.551 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.734 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.432 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.572 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.445 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.312 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.411 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.014 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.262 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.578 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.203 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.667 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.551 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.233 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.673 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.427 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.616 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.122 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.625 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.081 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.200 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.441 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.729 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.608 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.198 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.708 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.217 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.655 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.605 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.299 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.992 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.570 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.550 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.975 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.512 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.525 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.103 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.301 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.455 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.641 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.393 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.974 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.149 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.692 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.640 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.317 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.279 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.450 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.870 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.598 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.058 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.539 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.603 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.275 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.314 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.664 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.762 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.363 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.297 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.178 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.238 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.820 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.225 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.481 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.362 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.445 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.133 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.727 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.684 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.787 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.515 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.326 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.961 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.331 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.792 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.914 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.979 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.703 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.254 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.561 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.522 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.853 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.011 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.439 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.695 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.442 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.141 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.917 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.304 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.375 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.391 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.261 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.834 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.766 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.215 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.323 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.296 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.791 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.248 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.177 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.171 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.176 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.710 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.777 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.930 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.947 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.644 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.134 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.288 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.749 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.375 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.416 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.657 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.881 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.366 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.968 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.818 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.067 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 19.610 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 7.330 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.814 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.198 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.975 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.040 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.790 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.289 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.864 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.562 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.938 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.049 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 24.819 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.683 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 32.468 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 23.102 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 26.139 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.307 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.284 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.159 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.291 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.569 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.869 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 13.170 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.837 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 6.276 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.621 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.224 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.760 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.653 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.425 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.952 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.920 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.147 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.635 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.792 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.083 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.670 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.739 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.829 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.072 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.177 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.825 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.110 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.443 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.115 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.979 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.576 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.854 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.874 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.493 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.046 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.732 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.820 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.519 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.064 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.800 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.453 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.396 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.400 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.136 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.429 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.096 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.238 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.550 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.009 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.012 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.025 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.711 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.508 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.071 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.128 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.571 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.501 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.491 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.026 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.668 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 201.597 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.290 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.484 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.517 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.885 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.246 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.619 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.376 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.067 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.701 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.842 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.562 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.013 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.844 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.288 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.921 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.499 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.643 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.800 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.475 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.846 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.381 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.236 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.767 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.002 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.746 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.039 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 7.671 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 200 437 - 15.265 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 11.117 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 9.527 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 29.380 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.399 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.419 ms","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 3.329 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 0.473 ms","level":"info"}
+{"message":"::1 - GET /examnes HTTP/1.1 404 146 - 0.340 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.352 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.357 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.070 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.716 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.156 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.157 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.179 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.251 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.285 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.186 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.939 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.247 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.303 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.479 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.783 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.704 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.848 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.442 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.319 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.019 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.417 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.905 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.579 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.893 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.000 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.708 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.776 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.846 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.409 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.961 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.485 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.696 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.907 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.205 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.376 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.345 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.312 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.850 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.751 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.445 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.725 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.209 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.658 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.772 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.928 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.273 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.096 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.825 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.400 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 5.406 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.439 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.962 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.349 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 3.025 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.544 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.098 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.686 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.500 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.050 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.094 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.723 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.955 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.045 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.848 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.871 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.315 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.837 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.868 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.410 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.379 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.128 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.291 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.721 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.852 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.413 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.893 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.831 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.140 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.778 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.659 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.082 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.212 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.200 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.946 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.657 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.359 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.698 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.450 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.179 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.869 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.332 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.712 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.355 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.767 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.406 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.497 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.083 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.542 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.875 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.606 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.360 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.318 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.806 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.029 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.664 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.292 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.799 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.005 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.741 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.462 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.143 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.846 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.379 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.988 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.031 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.427 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.316 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.888 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.567 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.962 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.236 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.436 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.106 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.289 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.344 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.514 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.361 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.571 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.604 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.685 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.893 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.408 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.978 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.186 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.258 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.225 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.465 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.782 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.721 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.415 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.291 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.889 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.239 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.308 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 17.099 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 858 - 3.169 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.869 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.066 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.780 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 15.894 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.238 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.741 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.913 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.725 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.449 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.455 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.528 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.456 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.654 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.775 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.331 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.444 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.504 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.285 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.219 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.145 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.443 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.287 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.615 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.248 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.836 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.104 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.383 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.636 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.483 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.812 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.738 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.824 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.145 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.648 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.557 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.043 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.805 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.578 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.642 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.935 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.372 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.377 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.481 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.802 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.876 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.564 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.574 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.560 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.389 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.722 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 34.782 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 12.443 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.639 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.479 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.889 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 14.580 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.620 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.141 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.968 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.592 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.937 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.710 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.214 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.824 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.645 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.550 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.428 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.108 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.168 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.029 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.004 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.563 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.223 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.623 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.484 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.919 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.912 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.796 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.113 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.426 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.347 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.646 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.510 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.974 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.365 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.173 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.662 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.041 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.836 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.000 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.456 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.405 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.038 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.339 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.621 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 378.884 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.960 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.207 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 858 - 4.025 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.268 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 5.561 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 2.405 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.686 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 24.162 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.492 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.574 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.118 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.754 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.478 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.011 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.621 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.940 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.262 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.652 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.719 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.749 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.747 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.766 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.590 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.204 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.574 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.538 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.973 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.265 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.035 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.344 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 109.926 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.345 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.802 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.723 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 84.747 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.296 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 81.483 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.682 ms","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 1.866 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 0.311 ms","level":"info"}
+{"message":"::1 - GET /pacientes HTTP/1.1 404 148 - 1.036 ms","level":"info"}
+{"message":"::1 - GET /usuarios/$%7Bthis.state.inputBuscarUsuario%7D HTTP/1.1 400 77 - 0.737 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.383 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.471 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 1.999 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.955 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.326 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 5.429 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.049 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.880 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.369 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.042 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.146 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.979 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.215 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.891 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.984 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.802 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.283 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.609 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.411 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.635 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.200 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.223 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.285 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.781 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.071 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.597 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.068 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.908 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.462 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.848 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.445 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.218 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.360 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.900 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.389 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.976 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 159.198 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.043 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.789 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.516 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.651 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.900 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.009 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.624 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.815 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.128 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.376 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.761 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.692 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.612 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.547 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.606 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.562 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.777 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.590 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.604 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.823 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.426 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.908 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.070 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.281 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.362 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 5.017 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.764 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.089 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.139 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.447 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 34.598 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.173 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.928 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.732 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.256 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.624 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.015 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.770 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.789 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.234 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.915 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.204 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.341 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.471 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.553 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.175 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.167 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.263 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.114 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.202 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.193 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.678 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.050 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.546 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.169 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.107 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.278 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.885 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.694 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.886 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.430 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.070 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.028 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.894 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.036 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.867 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.629 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.813 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.010 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.028 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.320 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.621 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.287 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.201 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.236 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 31.407 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.155 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.233 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.529 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.662 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.748 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.201 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 128.874 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 86.781 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 90.045 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.716 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.366 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.260 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 12.812 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.313 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.843 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.236 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.201 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.323 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.289 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.779 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.128 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.558 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 126.785 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.683 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.211 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.000 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.051 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.054 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.364 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.138 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.348 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.785 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.230 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.561 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.424 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.939 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.171 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.411 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.374 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.160 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.649 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 200 437 - 2.325 ms","level":"info"}
+{"message":"::1 - GET /usuarios/ HTTP/1.1 304 - - 1.504 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.033 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.328 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 4.769 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 31.360 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.926 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 1.481 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 109 - 6.551 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 109 - 1.014 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 109 - 0.584 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 109 - 0.540 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 29.638 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 109 - 0.382 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.674 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c30c0519a6e3a286cfb78ad","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c30c0519a6e3a286cfb78ad","nombProfesion":"OFTALMOLÓGICO","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 75 - 224.692 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 934 - 2.422 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 3.789 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.353 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 119.921 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 85.236 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 86.548 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 86.176 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 88.048 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 90.413 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 88.326 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 88.323 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 88.214 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 84.174 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 86.665 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 84.678 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 89.142 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 89.579 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.839 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 6.261 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.874 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.151 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.162 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.867 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.162 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.132 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 130.450 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"secretOrKey":"secretodedesarrollo","level":"info","message":"jwtOptions"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"secretOrKey":"secretodedesarrollo","level":"info","message":"jwtOptions"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"secretOrKey":"angerman95","level":"info","message":"jwtOptions"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"secretOrKey":"secretoangerman95","level":"info","message":"jwtOptions"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"secretOrKey":"secretoangerman95","level":"info","message":"jwtOptions"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 117.830 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 85.263 ms","level":"info"}
+{"secretOrKey":"secretoangerman95","level":"info","message":"jwtOptions"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 111.533 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 7.273 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 1.523 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 1.619 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 2.810 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 27.173 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 500 1988 - 0.938 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 2.223 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.203 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.291 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 25.576 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.992 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.316 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.123 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.108 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.692 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.771 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.167 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.666 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 114.494 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.417 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.111 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.762 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.117 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.067 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.225 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.611 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.154 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.668 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 87.856 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.742 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.127 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.134 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.299 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.483 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.591 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.241 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.755 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 84.011 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.430 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.544 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.066 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.737 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.687 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.254 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 123.241 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 7.741 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 85.597 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.082 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.634 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.941 ms","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 1.815 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 0.375 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 25.606 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 102.404 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.846 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.526 ms","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 2.002 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.797 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 84.874 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 82.527 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 164.456 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.189 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.109 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.691 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.125 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.358 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 14.305 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 2.284 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 35.794 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 1.193 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 0.461 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 7.785 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 0.404 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.222 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 0.324 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.779 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.073 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 0.274 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.161 ms","level":"info"}
+{"message":"::1 - OPTIONS /loginusuarios/login HTTP/1.1 200 4 - 0.400 ms","level":"info"}
+{"message":"::1 - OPTIONS /loginusuarios/login HTTP/1.1 200 4 - 0.263 ms","level":"info"}
+{"message":"::1 - OPTIONS /loginusuarios/login HTTP/1.1 200 4 - 0.268 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 153.205 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 15.582 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.601 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 1.529 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.245 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.177 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.103 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.516 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.462 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.797 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.189 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.618 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.037 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.444 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.289 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.773 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.187 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 200 934 - 3.434 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 401 - - 0.466 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.043 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /examenes HTTP/1.1 200 11485 - 5.116 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.133 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 401 - - 0.173 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c323620d34dba27ccf18a76","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c323620d34dba27ccf18a76","nombProfesion":"HHHHHHHHH","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 201 70 - 23.100 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 200 1005 - 18.339 ms","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c323669d34dba27ccf18a77","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c323669d34dba27ccf18a77","nombProfesion":"DDSDGSSSSSS","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 201 72 - 14.518 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 200 1078 - 4.064 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 119.777 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1078 - 2.688 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.852 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.598 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 5.293 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 5.119 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 13.670 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.485 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /examenes HTTP/1.1 304 - - 4.343 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.595 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 26.220 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 5.742 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 17.751 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 131.139 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.886 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.595 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.704 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.231 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.043 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.723 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.880 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.591 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 103.282 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.256 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.503 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.053 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.039 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 103.850 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.110 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.305 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.307 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 2.690 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 103.452 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 5.707 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 401 - - 1.491 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 401 - - 0.200 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 6.036 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.222 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.729 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.406 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.174 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.101 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 2.591 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.122 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.027 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.830 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.190 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.844 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 103.935 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /examenes HTTP/1.1 304 - - 4.498 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.892 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.246 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.577 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.487 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 103.356 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.395 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1078 - 3.887 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.272 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.237 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.110 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 7.148 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.195 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 2.761 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.351 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.197 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.191 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.771 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 401 - - 0.151 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 401 - - 0.131 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.111 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 102.656 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c324b5bd72e4513c8b4d8e0","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c324b5bd72e4513c8b4d8e0","nombProfesion":"2","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::ffff:127.0.0.1 - POST /profesiones HTTP/1.1 201 62 - 48.468 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1141 - 3.297 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 200 1141 - 4.697 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.815 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.287 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.036 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.268 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.162 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.984 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.943 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.988 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.390 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.362 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.232 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 4.074 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 106.346 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.775 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 4.006 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 23.574 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 0.582 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 28.396 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 6.779 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 5.637 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 133.344 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.652 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.655 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 6.610 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.055 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.558 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.715 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 3.638 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.626 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 29.154 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::ffff:127.0.0.1 - POST /loginusuarios/login HTTP/1.1 200 207 - 138.836 ms","level":"info"}
+{"message":"::ffff:127.0.0.1 - GET /profesiones HTTP/1.1 304 - - 5.406 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 32.523 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.907 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 9.176 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 154.641 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 10.756 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 54.620 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 48.797 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 130.434 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 8.004 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3258ae4548ab17b4fafe26","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c3258ae4548ab17b4fafe26","nombProfesion":"SASA56","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 67 - 30.491 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3258be4548ab17b4fafe27","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c3258be4548ab17b4fafe27","nombProfesion":"SASA56SA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 69 - 11.532 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1279 - 14.080 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 93.852 ms","level":"info"}
+{"message":"::1 - OPTIONS /profesiones HTTP/1.1 200 13 - 1.609 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 33.460 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c325a23508144297c972ef4","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c325a23508144297c972ef4","nombProfesion":"SASA56","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 67 - 37.651 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3260f5ca53111e14e0f1b5","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c3260f5ca53111e14e0f1b5","nombProfesion":"SASA56","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 67 - 39.158 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1415 - 8.971 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3260fdca53111e14e0f1b6","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c3260fdca53111e14e0f1b6","nombProfesion":"SASA56","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 67 - 21.080 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c32610b8dae181300894987","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c32610b8dae181300894987","nombProfesion":"SASA56SA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 69 - 38.614 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3261194fd01a1780785c40","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c3261194fd01a1780785c40","nombProfesion":"SASA56SA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 69 - 33.574 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1623 - 5.436 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3261204fd01a1780785c41","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c3261204fd01a1780785c41","nombProfesion":"SASA195","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 68 - 11.686 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1692 - 30.123 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c32616e1f142a16a0772234","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c32616e1f142a16a0772234","nombProfesion":"SASA56","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 67 - 23.567 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1760 - 5.157 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.662 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.255 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 6.229 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.701 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 6.333 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.125 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.157 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.563 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 98.826 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.602 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c32623f1f142a16a0772235","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c32623f1f142a16a0772235","nombProfesion":"SA95ASAS6","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 70 - 11.556 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1831 - 4.443 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.883 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 24.458 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.819 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 106.549 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 6.358 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.081 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c32628227321a07607f3d35","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c32628227321a07607f3d35","nombProfesion":"DSDSDCESAMO","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 72 - 14.869 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1904 - 5.492 ms","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 401 - - 0.169 ms","level":"info"}
+{"message":"::1 - GET /loginusuarios/login HTTP/1.1 404 158 - 2.060 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.419 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.869 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 103.430 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.621 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.236 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.039 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.716 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.900 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 4.972 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.043 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.851 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.640 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}

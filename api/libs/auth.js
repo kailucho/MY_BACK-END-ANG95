@@ -14,6 +14,7 @@ let jwtOptions = {
     secretOrKey: config.jwt.secreto,
     jwtFromRequest: passportJWT.ExtractJwt.fromAuthHeaderAsBearerToken()
 }
+
 module.exports = new passportJWT.Strategy(jwtOptions, (jwtPayload, next) => {
     usuarioController.obtenerUsuario({
             id: jwtPayload.id

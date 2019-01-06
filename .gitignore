@@ -5,7 +5,7 @@
 # /*.png
  
 # Ignorando la Carpeta Vacía
- 
+/logs
 /node_modules
  
 # Ignorando un Archivo Individual

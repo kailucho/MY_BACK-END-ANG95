@@ -36,7 +36,7 @@ let validarPedidoDeLogin = (req, res, next) => {
     if (resultado.error === null) {
         next()
     } else {
-        res.status(400).send(`Login falló. Debes especificar el username y contraseña del usuario. Ambos deben string.`)
+        res.status(400).send(`Login falló. Debes especificar el username y contraseña del usuario. Ambos deben ser string.`)
     }
 }
 

@@ -3,7 +3,8 @@ const bodyParser = require('body-parser')
 const passport = require('passport')
 const morgan = require('morgan')
 const mongoose = require('mongoose')
-const cors = require('express-cors')
+const expressCors = require('express-cors')
+var cors = require('cors')
 
 const productosRouter = require('./api/recursos/productos/productos.routes')
 const loginusuariosRouter = require('./api/recursos/loginusuarios/loginusuarios.routes')
@@ -27,10 +28,11 @@ mongoose.connection.on('error', () => {
 const app = express()
 app.use(bodyParser.json())
 
-app.use(cors({
+app.use(cors({}))
+app.use(expressCors({
     allowedOrigins: [
-        'http://localhost:9000', 'localhost'
-    ]
+        'http://localhost:9000', '*.localhost:9000', 'localhost:9000', 'localhost:*'
+    ],
 }))
 
 app.use(morgan('short', {
@@ -53,8 +55,6 @@ if (config.ambiente === 'prod') {
 } else {
   app.use(errorHandler.erroresEnDesarrollo)
 }
-
-
 
 app.listen(config.puerto, () => {
     logger.info(`Corriendo en el puerto ${config.puerto}.`)

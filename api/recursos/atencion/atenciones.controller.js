@@ -1,19 +1,22 @@
-const Profesion = require('./profesiones.model')
+const Atencion = require('./atenciones.model')
 
-function crearProfesion(producto, dueño) {
-    return new Profesion({
+// inserta atenciones que se realizan en el laboratorio
+function crearAtencion(producto, dueño) {
+    return new Atencion({
         ...producto
     }).save()
 }
 
-// obtiene Profesiones sin filtrar por nada todos lo registros
-function obtenerProfesiones() {
-     return Profesion.find({})
+// obtiene Examenes sin filtrar por nada - todos lo registros
+function obtenerExamenes() {    
+    // console.log('==>', Examen.find({}));
+    
+     return Atencion.find()
 }
 
 // obtiene producto  filtra por ID
-function obtenerProfesion(id) {
-    return Profesion.findById(id)
+function obtenerProducto(id) {
+    return Atencion.findById(id)
 }
 
 // ELIMINA una Profesion por ID
@@ -33,9 +36,9 @@ function reemplazarProducto(id, producto, username) {
 }
 
 module.exports = {
-    crearProfesion,
-    obtenerProfesiones,
-    obtenerProfesion,
+    crearAtencion,
+    obtenerExamenes,
+    obtenerProducto,
     borrarProfesion,
     reemplazarProducto
 }

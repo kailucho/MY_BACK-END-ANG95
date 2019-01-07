@@ -11,6 +11,7 @@ const loginusuariosRouter = require('./api/recursos/loginusuarios/loginusuarios.
 const usuariosRouter = require('./api/recursos/usuarios/usuarios.routes')
 const profesionesRouter = require('./api/recursos/profesiones/profesiones.routes')
 const examenesRouter = require('./api/recursos/examenes/examenes.routes')
+const atencionesRouter = require('./api/recursos/atencion/atenciones.routes')
 
 const logger = require('./utils/logger')
 const authJWT = require('./api/libs/auth')
@@ -32,7 +33,7 @@ app.use(cors({}))
 app.use(expressCors({
     allowedOrigins: [
         'http://localhost:9000', '*.localhost:9000', 'localhost:9000', 'localhost:*'
-    ],
+    ]
 }))
 
 app.use(morgan('short', {
@@ -48,6 +49,7 @@ app.use('/usuarios', usuariosRouter)
 app.use('/productos', productosRouter)
 app.use('/profesiones', profesionesRouter)
 app.use('/examenes', examenesRouter)
+app.use('/atenciones', atencionesRouter)
 
 app.use(errorHandler.procesarErroresDeDB)
 if (config.ambiente === 'prod') {

@@ -2,12 +2,12 @@ const express = require('express')
 const _ = require('underscore')
 const passport = require('passport')
 
-const validarProfesion = require('./profesiones.validate')
-const log = require('./../../../utils/logger')
-const profesionController = require('./profesiones.controller')
+const validarAtencion = require('./atenciones.validate')
+const log = require('../../../utils/logger')
+const examenController = require('./atenciones.controller')
 
 const jwtAutenticate = passport.authenticate('jwt', { session: false })
-const profesionesRouter = express.Router()
+const atencionesRouter = express.Router()
 // -------------------------requires----------------------------♥
 
 
@@ -21,33 +21,33 @@ function validarIdDeMongo(req, res, next) {
     next()
 }
 
-profesionesRouter.get('/', (req, res) => {
-    profesionController.obtenerProfesiones()
-        .then(profesiones => {
-            res.json(profesiones)
+atencionesRouter.get('/', (req, res) => {
+    examenController.obtenerExamenes()
+        .then(Examenes => {            
+            res.json(Examenes)
         })
         .catch(err => {
-            res.status(500).send('Error al leer los productos de la base de datos.')
+            res.status(500).send('Error al leer los examenes de la base de datos.')
         })
 })
 
-profesionesRouter.post('/', [jwtAutenticate, validarProfesion] , (req, res) => {
-    // profesionController.crearProfesion(req.body, req.user.username)
-    profesionController.crearProfesion(req.body)
-        .then(profesion => {
-            log.info("Profesion agregada a la colección profesion", profesion)
-            res.status(201).json(profesion)
+atencionesRouter.post('/', [jwtAutenticate, validarAtencion] , (req, res) => {
+    // examenController.crearAtencion(req.body, req.user.username)
+    examenController.crearAtencion(req.body)
+        .then(atencion => {
+            log.info("Atencion agregada a la colección Atencion", atencion)
+            res.status(201).json(atencion)
         })
         .catch(err => {
-            log.error("Profesion no pudo ser creada", err)
-            res.status(500).send('Error ocurrió al tratar de crear el producto.')
+            log.error("Atencion no pudo ser creada", err)
+            res.status(500).send('Error ocurrió al tratar de crear el Atencion.')
         })
 
 })
 
-profesionesRouter.get('/:id', validarIdDeMongo, (req, res) => {
+atencionesRouter.get('/:id', validarIdDeMongo, (req, res) => {
     let id = req.params.id
-    profesionController.obtenerProfesion(id)
+    examenController.obtenerProducto(id)
         .then(producto => {
             if (!producto) {
                 res.status(404).send(`Producto con id [${id}] no existe.`)
@@ -61,13 +61,13 @@ profesionesRouter.get('/:id', validarIdDeMongo, (req, res) => {
         })
 })
 
-profesionesRouter.put('/:id', [jwtAutenticate, validarProfesion], async (req, res) => {
+atencionesRouter.put('/:id', [jwtAutenticate, validarAtencion], async (req, res) => {
     let id = req.params.id
     let requestUsuario = req.user.username
     let productoAReemplazar
 
     try {
-        productoAReemplazar = await profesionController.obtenerProfesion(id)
+        productoAReemplazar = await examenController.obtenerProducto(id)
     } catch (err) {
         log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
         res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
@@ -84,7 +84,7 @@ profesionesRouter.put('/:id', [jwtAutenticate, validarProfesion], async (req, re
         res.status(401).send(`No eres dueño del producto con id [${id}]. Solo puedes modificar productos creados por ti.`)
     }
 
-    profesionController.reemplazarProducto(id, req.body, requestUsuario)
+    examenController.reemplazarProducto(id, req.body, requestUsuario)
         .then(producto => {
             res.json(producto)
             log.info(`Producto con id [${id}] reemplazado con nuevo producto`, producto)
@@ -95,34 +95,34 @@ profesionesRouter.put('/:id', [jwtAutenticate, validarProfesion], async (req, re
         })
 })
 
-profesionesRouter.delete('/:id', [jwtAutenticate, validarIdDeMongo], async (req, res) => {
+atencionesRouter.delete('/:id', [jwtAutenticate, validarIdDeMongo], async (req, res) => {
     let id = req.params.id
-    let profesionABorrar
+    let productoABorrar
 
     try {
-        profesionABorrar = await profesionController.obtenerProfesion(id)
+        productoABorrar = await examenController.obtenerProducto(id)
     } catch (err) {
-        log.error(`Excepción ocurrió al procesar el borrado de la profesion con id [${id}]`, err)
-        res.status(404).send(`Error ocurrio borrando profesion con id[${id}]`)
+        log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
+        res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
         return
     }
 
 
-    if (!profesionABorrar) {
-        log.info(`profesion con id [${id}] no existe. Nada que borrar`)
-        res.status(404).send(`Prrofesion con id [${id}] no existe. Nada que borrar.`)
+    if (!productoABorrar) {
+        log.info(`Producto con id [${id}] no existe. Nada que borrar`)
+        res.status(404).send(`Producto con id [${id}] no existe. Nada que borrar.`)
         return
     }
 
-    // let usuarioAutenticado = req.user.username
-    // if (profesionABorrar.dueño !== usuarioAutenticado) {
-    //     log.info(`Usuario [${usuarioAutenticado}] no es dueño de producto con id [${id}]. Dueño real es [${profesionABorrar.dueño}]. Request no será procesado`)
-    //     res.status(401).send(`No eres dueño de Prrofesion con id [${id}]. Solo puedes borrar productos creados por ti.`)
-    //     return
-    // }
+    let usuarioAutenticado = req.user.username
+    if (productoABorrar.dueño !== usuarioAutenticado) {
+        log.info(`Usuario [${usuarioAutenticado}] no es dueño de producto con id [${id}]. Dueño real es [${productoABorrar.dueño}]. Request no será procesado`)
+        res.status(401).send(`No eres dueño del producto con id [${id}]. Solo puedes borrar productos creados por ti.`)
+        return
+    }
 
     try {
-        let productoBorrado = await profesionController.borrarProfesion(id)
+        let productoBorrado = await examenController.borrarProfesion(id)
         log.info(`Profesion con id [${id}] fue borrado`)
         res.json(productoBorrado)
 
@@ -131,4 +131,4 @@ profesionesRouter.delete('/:id', [jwtAutenticate, validarIdDeMongo], async (req,
     }
 })
 
-module.exports = profesionesRouter
+module.exports = atencionesRouter

@@ -3412,3 +3412,1073 @@
 {"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
 {"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c32c8b0faeace1d78432e99","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Eosinófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"HORMONAS","grupo1":[{"nomb_examenGrupo1":"HCG","grupo2":[{"nombExamen2":"Cualitativo suero","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c32c8b0faeace1d78432e99","EstAtencion":false,"FechaAtencion":"2019-01-07T03:34:08.910Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
 {"message":"::1 - POST /atenciones HTTP/1.1 201 507 - 202.804 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 137.357 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.739 ms","level":"info"}
+{"message":"::1 - GET /usuarios/2856 HTTP/1.1 400 49 - 0.735 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.798 ms","level":"info"}
+{"message":"::1 - POST /atenciones HTTP/1.1 401 - - 2.003 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.343 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3404fe05749f3318bef6a3","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Eosinófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3404fe05749f3318bef6a3","EstAtencion":false,"FechaAtencion":"2019-01-08T02:03:42.141Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 421 - 22.198 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c34050605749f3318bef6a4","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Eosinófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"1 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c34050605749f3318bef6a4","EstAtencion":false,"FechaAtencion":"2019-01-08T02:03:50.284Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 642 - 6.983 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 1574 - 28.777 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.848 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 27.988 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2 - 16.210 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c34070c1a707e22747aac1c","wasPopulated":false,"activePaths":{"paths":{"IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require","Examen":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true,"Examen":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"BIOQUIMICA","grupo1":[{"nomb_examenGrupo1":"GLUCOSA","grupo2":[{"nombExamen2":"Glucosa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"PERFIL RENAL","grupo2":[{"nombExamen2":"Acido úrico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c34070c1a707e22747aac1c","EstAtencion":false,"FechaAtencion":"2019-01-08T02:12:28.156Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 869 - 385.197 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 871 - 4.043 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c34078c9bb5b713e856140b","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"BIOQUIMICA","grupo1":[{"nomb_examenGrupo1":"GLUCOSA","grupo2":[{"nombExamen2":"Glucosa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"PERFIL RENAL","grupo2":[{"nombExamen2":"Acido úrico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c34078c9bb5b713e856140b","EstAtencion":false,"FechaAtencion":"2019-01-08T02:14:36.739Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 869 - 317.786 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 871 - 4.593 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 21.621 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.083 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3407bc4253b30fd89930a8","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Neutrófilos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3407bc4253b30fd89930a8","EstAtencion":false,"FechaAtencion":"2019-01-08T02:15:24.204Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 329 - 30.971 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 1201 - 3.951 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.958 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 32.180 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.920 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.436 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c34088833e23b31bc29cbc0","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c34088833e23b31bc29cbc0","EstAtencion":false,"FechaAtencion":"2019-01-08T02:18:48.556Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 326 - 28.592 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.388 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.051 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.474 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.911 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.785 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 10.187 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.454 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.629 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.391 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.383 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.544 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.766 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.009 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 1528 - 4.540 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.844 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.663 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.794 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.603 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.572 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.663 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.544 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.903 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.485 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.193 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c34120d33e23b31bc29cbc1","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"MICROBIOLOGICO","grupo1":[{"nomb_examenGrupo1":"MICROBIOLOGICO","grupo2":[{"nombExamen2":"Antibiograma","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Baciloscopía","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"INMUNOLOGICOS","grupo1":[{"nomb_examenGrupo1":"INMUNOLOGICOS","grupo2":[{"nombExamen2":"otros","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c34120d33e23b31bc29cbc1","EstAtencion":false,"FechaAtencion":"2019-01-08T02:59:25.624Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 797 - 6.868 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2326 - 2.455 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.848 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.967 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c34123033e23b31bc29cbc2","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HORMONAS","grupo1":[{"nomb_examenGrupo1":"HCG","grupo2":[{"nombExamen2":"Otros","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c34123033e23b31bc29cbc2","EstAtencion":false,"FechaAtencion":"2019-01-08T03:00:00.921Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 304 - 6.031 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2631 - 2.744 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.372 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.958 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.543 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.102 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.805 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.337 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.087 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.339 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.379 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.373 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.525 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.162 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.324 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 113.081 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.690 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 9.471 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2631 - 7.885 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.425 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.728 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.474 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.275 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.413 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.312 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.318 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.228 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.024 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.268 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.340 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.262 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.939 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.701 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.500 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.762 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.748 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.143 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.756 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.905 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.118 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.436 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.139 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.854 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.266 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.976 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 796 - 2.791 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.611 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.034 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.798 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.417 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.094 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.746 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.586 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.602 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.858 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.132 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.365 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.753 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.330 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.101 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.319 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.464 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.097 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.764 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.145 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.211 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.431 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.874 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.229 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.209 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.431 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.210 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.777 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.906 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.698 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.853 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.449 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.548 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.972 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.924 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.951 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.890 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.657 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.556 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.824 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.808 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.357 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.188 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.345 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.123 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.839 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.410 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.668 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.654 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.058 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.993 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.761 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.498 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.588 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.407 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.497 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.598 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.455 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.097 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.259 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.682 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.742 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.563 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.723 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.087 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.323 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.507 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.311 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.112 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.955 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.539 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.156 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.408 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.932 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.390 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.634 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.421 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.014 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.357 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.488 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.116 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.918 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.430 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.542 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.343 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.207 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.241 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.381 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.523 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.907 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.394 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.008 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.432 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.329 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.397 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.654 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.490 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.330 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 160.400 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.891 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 6.848 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.584 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.484 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.338 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.358 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.813 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.984 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.802 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.952 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.026 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.963 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.345 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.743 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.207 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.611 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.784 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.058 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.609 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.915 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.583 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.962 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.330 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.662 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.845 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.654 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.262 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.583 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.531 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.812 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.223 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.712 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.341 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.787 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.280 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.797 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.024 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.262 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.765 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.415 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.929 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.204 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.121 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.375 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.032 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.546 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.159 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.189 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.977 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 211.897 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 27.238 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.142 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.280 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.224 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.330 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.571 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.186 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.729 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.054 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.495 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.747 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.807 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.543 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.010 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.592 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.932 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.925 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.972 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.123 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.005 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.244 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.320 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 7.230 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.649 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.864 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.480 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.300 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.461 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.455 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.019 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.406 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.255 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.771 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.371 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.393 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.217 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.164 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.942 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.601 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.366 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.129 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.122 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.216 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.893 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.640 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.130 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.652 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.277 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.223 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.453 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.202 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.119 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.350 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.181 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.146 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.382 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.190 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.389 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.959 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.933 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.656 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.394 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.880 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.692 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.375 ms","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 4.821 ms","level":"info"}
+{"message":"::1 - GET / HTTP/1.1 404 139 - 0.519 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 105.547 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.838 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.906 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.275 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.973 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.166 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.798 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.606 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.955 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.137 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.210 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.425 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.068 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.144 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.049 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 165.855 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 12.214 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.278 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2631 - 8.748 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.279 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.252 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.288 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.728 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 11.502 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.778 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.160 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.492 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.838 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.413 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.423 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.827 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.449 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.054 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.003 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.215 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.318 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.470 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.055 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.944 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.542 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.841 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.294 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.394 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.556 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.523 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.109 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.986 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.159 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.611 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.841 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.854 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.838 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.057 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.632 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d4a4285d4ea2734722fdf","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"1 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"BIOQUIMICA","grupo1":[{"nomb_examenGrupo1":"GLUCOSA","grupo2":[{"nombExamen2":"Glucosa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"PERFIL RENAL","grupo2":[{"nombExamen2":"Acido úrico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"UROLOGIA","grupo1":[{"nomb_examenGrupo1":"EXAMEN FISICO","grupo2":[{"nombExamen2":"pH","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"EXAMEN QUIMICO","grupo2":[{"nombExamen2":"A. Ascórbico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"PARASITOLOGIA","grupo1":[{"nomb_examenGrupo1":"COPROPARASITOLOGICO","grupo2":[{"nombExamen2":"Huevos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d4a4285d4ea2734722fdf","EstAtencion":false,"FechaAtencion":"2019-01-15T02:49:38.600Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 1471 - 96.652 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 4103 - 3.659 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2 - 1.364 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.187 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d4b2185d4ea2734722fe0","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"1 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"BIOQUIMICA","grupo1":[{"nomb_examenGrupo1":"GLUCOSA","grupo2":[{"nombExamen2":"Glucosa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"PERFIL RENAL","grupo2":[{"nombExamen2":"Acido úrico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Cratinina","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"UROLOGIA","grupo1":[{"nomb_examenGrupo1":"EXAMEN FISICO","grupo2":[{"nombExamen2":"Densidad","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"pH","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"EXAMEN QUIMICO","grupo2":[{"nombExamen2":"A. Ascórbico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Hematíes","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"PARASITOLOGIA","grupo1":[{"nomb_examenGrupo1":"PARASITOLOGICO SERIADO","grupo2":[{"nombExamen2":"III muestra","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"REACCION INFLAMATORIA","grupo2":[{"nombExamen2":"Cel. Epiteliales por C","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d4b2185d4ea2734722fe0","EstAtencion":false,"FechaAtencion":"2019-01-15T02:53:21.103Z","IdPaciente":"12660","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 1924 - 221.199 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 1926 - 1.547 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.410 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.607 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.750 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 121.951 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 89.222 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 125.099 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 95.321 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 86.126 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 183 - 124.848 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 116.837 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 117.227 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios%7D HTTP/1.1 404 150 - 5.570 ms","level":"info"}
+{"message":"::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.217 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 200 437 - 31.638 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 3.992 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.294 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.668 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.340 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.314 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.128 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.060 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 2.589 ms","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 1.943 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.335 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.536 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"level":"error","message":"Error ocurrió al tratar de determinar si el usuario [german], ya existe"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 500 43 - 14.615 ms","level":"info"}
+{"level":"error","message":"Error ocurrió al tratar de determinar si el usuario [german], ya existe"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 500 43 - 2.441 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 155.075 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 164 - 26.926 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 124.449 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 137.821 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 117.180 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 125.601 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.721 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d5741e24d012c0c14671d","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"1 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d5741e24d012c0c14671d","EstAtencion":false,"FechaAtencion":"2019-01-15T03:45:05.532Z","IdPaciente":"german","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 641 - 30.122 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 11.110 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2568 - 4.336 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.138 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 5.333 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 12.678 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.206 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.308 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.385 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.018 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.003 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.841 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.650 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d58bfe24d012c0c14671e","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d58bfe24d012c0c14671e","EstAtencion":false,"FechaAtencion":"2019-01-15T03:51:27.285Z","IdPaciente":"ObjectId(this.state.DataUsuario._id)","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 357 - 7.669 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2926 - 3.129 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.440 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.705 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2 - 1.608 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.193 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d5908e24d012c0c14671f","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"UROLOGIA","grupo1":[{"nomb_examenGrupo1":"EXAMEN FISICO","grupo2":[{"nombExamen2":"pH","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d5908e24d012c0c14671f","EstAtencion":false,"FechaAtencion":"2019-01-15T03:52:40.773Z","IdPaciente":"ObjectId(undefined)","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 514 - 336.543 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 516 - 1.608 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.371 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.812 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d5931e24d012c0c146720","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"BIOQUIMICA","grupo1":[{"nomb_examenGrupo1":"GLUCOSA","grupo2":[{"nombExamen2":"Glucosa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d5931e24d012c0c146720","EstAtencion":false,"FechaAtencion":"2019-01-15T03:53:21.162Z","IdPaciente":"ObjectId(5c185148844832dd13318b34)","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 530 - 616.696 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 532 - 1.986 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2 - 1.687 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.388 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 3.138 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.138 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.890 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.480 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.968 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.686 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.314 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.209 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.914 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 29.507 ms","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: Unexpected token (\nH:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js:4\nfunction (atencion, dueño) {\n         ^\n\nSyntaxError: Unexpected token (\n    at createScript (vm.js:80:10)\n    at Object.runInThisContext (vm.js:139:10)\n    at Module._compile (module.js:617:28)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.routes.js:7:26)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)","stack":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js:4\nfunction (atencion, dueño) {\n         ^\n\nSyntaxError: Unexpected token (\n    at createScript (vm.js:80:10)\n    at Object.runInThisContext (vm.js:139:10)\n    at Module._compile (module.js:617:28)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.routes.js:7:26)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)","exception":true,"date":"Mon Jan 14 2019 23:14:52 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":2280,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":54525952,"heapTotal":37568512,"heapUsed":22148752,"external":18560109}},"os":{"loadavg":[0,0,0],"uptime":438866.6025672},"trace":[{"column":10,"file":"vm.js","function":"createScript","line":80,"method":null,"native":false},{"column":10,"file":"vm.js","function":"Object.runInThisContext","line":139,"method":"runInThisContext","native":false},{"column":28,"file":"module.js","function":"Module._compile","line":617,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":26,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.routes.js","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false}]}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 18.265 ms","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: ObjectId is not defined\nReferenceError: ObjectId is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.model.js:13:15)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js:1:80)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)","stack":"ReferenceError: ObjectId is not defined\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.model.js:13:15)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js:1:80)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)","exception":true,"date":"Mon Jan 14 2019 23:24:25 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":5764,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":54435840,"heapTotal":37044224,"heapUsed":22174552,"external":18560109}},"os":{"loadavg":[0,0,0],"uptime":439438.9998478},"trace":[{"column":15,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.model.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":80,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js","function":null,"line":1,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Undefined type `Function` at `IdPaciente`\n  Did you try nesting Schemas? You can only nest using refs or arrays.\nTypeError: Undefined type `Function` at `IdPaciente`\n  Did you try nesting Schemas? You can only nest using refs or arrays.\n    at Schema.interpretAsType (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:713:11)\n    at Schema.path (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:553:27)\n    at Schema.add (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:414:12)\n    at new Schema (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:110:10)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.model.js:3:26)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js:1:80)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","stack":"TypeError: Undefined type `Function` at `IdPaciente`\n  Did you try nesting Schemas? You can only nest using refs or arrays.\n    at Schema.interpretAsType (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:713:11)\n    at Schema.path (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:553:27)\n    at Schema.add (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:414:12)\n    at new Schema (H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js:110:10)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.model.js:3:26)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)\n    at tryModuleLoad (module.js:506:12)\n    at Function.Module._load (module.js:498:3)\n    at Module.require (module.js:597:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js:1:80)\n    at Module._compile (module.js:653:30)\n    at Object.Module._extensions..js (module.js:664:10)\n    at Module.load (module.js:566:32)","exception":true,"date":"Mon Jan 14 2019 23:25:57 GMT-0500 (Hora est. Pacífico, Sudamérica)","process":{"pid":9524,"uid":null,"gid":null,"cwd":"H:\\API_LABORION\\api_angerman_oficial","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v8.12.0","argv":["C:\\Program Files\\nodejs\\node.exe","H:\\API_LABORION\\api_angerman_oficial\\index.js"],"memoryUsage":{"rss":54411264,"heapTotal":38092800,"heapUsed":22094304,"external":18560109}},"os":{"loadavg":[0,0,0],"uptime":439531.4169949},"trace":[{"column":11,"file":"H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js","function":"Schema.interpretAsType","line":713,"method":"interpretAsType","native":false},{"column":27,"file":"H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js","function":"Schema.path","line":553,"method":"path","native":false},{"column":12,"file":"H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js","function":"Schema.add","line":414,"method":"add","native":false},{"column":10,"file":"H:\\API_LABORION\\api_angerman_oficial\\node_modules\\mongoose\\lib\\schema.js","function":"new Schema","line":110,"method":null,"native":false},{"column":26,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.model.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":506,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":498,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":597,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":80,"file":"H:\\API_LABORION\\api_angerman_oficial\\api\\recursos\\atencion\\atenciones.controller.js","function":null,"line":1,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":653,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":664,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":566,"method":"load","native":false}]}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios HTTP/1.1 304 - - 25.596 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.168 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.740 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 17.114 ms","level":"info"}
+{"message":"::1 - POST /atenciones HTTP/1.1 401 - - 1.983 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 109.009 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.800 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.975 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.419 ms","level":"info"}
+{"message":"::1 - POST /atenciones HTTP/1.1 401 - - 0.250 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.372 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 85.383 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.731 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.961 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3d61a14e1f3d1740fa5875","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3d61a14e1f3d1740fa5875","EstAtencion":false,"FechaAtencion":"2019-01-15T04:29:21.666Z","IdPaciente":"5c185148844832dd13318b34","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 345 - 167.567 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 347 - 1.678 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 24.062 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 2 - 2.093 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.642 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 6.166 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.858 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.665 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 3.037 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.496 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.632 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.821 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.721 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.884 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"::1 - POST /atenciones HTTP/1.1 400 108 - 11.374 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.695 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.244 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.822 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.966 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.786 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.112 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.896 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.898 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.602 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.749 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.854 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.193 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.553 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.278 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.784 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.828 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.431 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.445 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.346 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.946 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.613 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.821 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.208 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.792 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.361 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.430 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.426 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.857 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.345 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.954 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.292 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.456 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.370 ms","level":"info"}
+{"message":"::1 - GET /usuarios/sdsdsdsdsdsdsdsadsaddadadadadadadddddddddddd HTTP/1.1 400 89 - 0.321 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.817 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 162.296 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.354 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.738 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.225 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.602 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 12.667 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.428 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.862 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.384 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 2.386 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.511 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.666 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.273 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.363 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.376 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.548 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.498 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.210 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.863 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c3fcf3c1f105c21cc504ea3","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"HORMONAS","grupo1":[{"nomb_examenGrupo1":"HCG","grupo2":[{"nombExamen2":"Prueba rápida suero","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Prueba rápida orina","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"INMUNOLOGICOS","grupo1":[{"nomb_examenGrupo1":"INMUNOLOGICOS","grupo2":[{"nombExamen2":"Antígeno de superficie","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"HEPATITIS C","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c3fcf3c1f105c21cc504ea3","EstAtencion":false,"FechaAtencion":"2019-01-17T00:41:32.893Z","IdPaciente":"5c185148844832dd13318b34","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 1021 - 281.148 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 1023 - 2.380 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 9.565 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.527 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.647 ms","level":"info"}
+{"message":"::1 - GET /usuarios/2856 HTTP/1.1 400 49 - 0.366 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.279 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.881 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.316 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.815 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.770 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.895 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.961 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.984 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.042 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.221 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.151 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.229 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.412 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.281 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.319 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.237 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.910 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.049 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.058 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.855 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.041 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.880 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.769 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.200 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.070 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.234 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.009 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.073 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.997 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.070 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.655 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.844 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.281 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.922 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.797 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.067 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.000 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.163 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.176 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.969 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.870 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.214 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.057 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.026 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.249 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.126 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.050 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.677 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.485 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.100 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.293 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.836 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.073 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.285 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.159 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.080 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.003 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.672 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.959 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.984 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.292 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.091 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.562 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.386 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.232 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.619 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.141 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.886 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 1023 - 2.604 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 200 11485 - 4.196 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 200 219 - 1.693 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.761 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.478 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.576 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.925 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.022 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.168 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.194 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.073 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.847 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.087 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.968 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.108 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.341 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.135 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.875 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.745 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.891 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.135 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.122 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.786 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.046 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.072 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.041 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.573 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.879 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.656 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.764 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.364 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.908 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.846 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.186 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.889 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.833 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.820 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.389 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.036 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.152 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.034 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.262 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.742 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.280 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.180 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.278 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.088 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.062 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.962 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.376 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.727 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.720 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.218 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.035 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.014 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.119 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.012 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.474 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.667 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.404 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.803 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 12.076 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.914 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.836 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.930 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 2.859 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 200 219 - 2.086 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c4002c21f105c21cc504ea4","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Linfocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Basófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Basófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Eosinófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Basófilo","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Neutrófilos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"2 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"1 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"BIOQUIMICA","grupo1":[{"nomb_examenGrupo1":"PERFIL RENAL","grupo2":[{"nombExamen2":"Acido úrico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Cratinina","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"GLUCOSA","grupo2":[{"nombExamen2":"Glucosa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"PERFIL LIPIDICO","grupo2":[{"nombExamen2":"LDL","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Triglicéridos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"PERFIL HEPATICO","grupo2":[{"nombExamen2":"TGO","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Bilirrubina indirecta","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Bilirrubina Directa","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]},{"nomb_examen":"UROLOGIA","grupo1":[{"nomb_examenGrupo1":"EXAMEN QUIMICO","grupo2":[{"nombExamen2":"A. Ascórbico","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Bilirrubina","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Urobilina","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"SEDIMENTO URINARIO","grupo2":[{"nombExamen2":"Cristales","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Piocitos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c4002c21f105c21cc504ea4","EstAtencion":false,"FechaAtencion":"2019-01-17T04:21:22.944Z","IdPaciente":"5c1861e9844832dd13318b35","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 2752 - 4.911 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 3776 - 1.337 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.300 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.472 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.335 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.996 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.958 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.373 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.268 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.067 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.065 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.162 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.522 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.354 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.240 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.187 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.725 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.548 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.279 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.458 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.448 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.334 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.505 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.236 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.356 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.176 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.091 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.726 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.325 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.112 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 3776 - 2.097 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.939 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 1.980 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.249 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.131 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.103 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.665 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.272 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.611 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 4.186 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.001 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.355 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 31.602 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 15.377 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 8.681 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 5.529 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 5.003 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.303 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 132.445 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.960 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.374 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 1.800 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c43351284f15c0b78103cab","wasPopulated":false,"activePaths":{"paths":{"Examen":"require","IdPaciente":"require","FechaAtencion":"require","EstAtencion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"Examen":true,"IdPaciente":true,"FechaAtencion":true,"EstAtencion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"Examen":[{"nomb_examen":"HEMATOLOGIA","grupo1":[{"nomb_examenGrupo1":"HEMOGRAMA COMPLETO","grupo2":[{"nombExamen2":"Hemoglobina","unidadMedida":"HB","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"VCM","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"HCM","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"CHCM","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Reticulocitos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Neutrófilos","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Segmentado","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"},{"nombExamen2":"Monocito","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]},{"nomb_examenGrupo1":"VSG","grupo2":[{"nombExamen2":"1 Hora","unidadMedida":"Med","precio":12.66,"resultado":"vacio por ahora"}]}]}],"_id":"5c43351284f15c0b78103cab","EstAtencion":false,"FechaAtencion":"2019-01-19T14:32:50.518Z","IdPaciente":"5c185148844832dd13318b34","__v":0},"level":"info","message":"Atencion agregada a la colección Atencion"}
+{"message":"::1 - POST /atenciones HTTP/1.1 201 1124 - 32.189 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 200 4901 - 6.306 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.875 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 796 - 23.265 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 3.475 ms","level":"info"}
+{"message":"::1 - GET /usuarios/75871182 HTTP/1.1 304 - - 2.548 ms","level":"info"}
+{"message":"::1 - GET /usuarios/76540444 HTTP/1.1 304 - - 1.970 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 171.063 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 15.654 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 5.671 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 796 - 5.726 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.812 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.856 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.256 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c44aaf0a4cfa11bf4854a45","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c44aaf0a4cfa11bf4854a45","nombProfesion":"MEDICO GENERAL","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 75 - 164.370 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 872 - 3.226 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.812 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.656 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.353 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.296 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.531 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.575 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.615 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.238 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.284 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c44bd04a4cfa11bf4854a46","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c44bd04a4cfa11bf4854a46","nombProfesion":"DEMO","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 65 - 4.607 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 938 - 4.051 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Profesion con id [5c44bd04a4cfa11bf4854a46] fue borrado","level":"info"}
+{"message":"::1 - DELETE /profesiones/5c44bd04a4cfa11bf4854a46 HTTP/1.1 200 65 - 102.976 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 872 - 3.434 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.857 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.067 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.797 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.728 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.109 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.975 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.368 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.311 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.650 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.254 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.224 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.119 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.208 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.417 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.114 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.438 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.980 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 4.913 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.312 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.037 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.737 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 1.803 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.609 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.711 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 1.345 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.721 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.631 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.289 ms","level":"info"}
+{"0":"\"email\" is required","level":"info","message":"producto falló la validación"}
+{"message":"::1 - POST /loginusuarios HTTP/1.1 400 220 - 3.227 ms","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 83.798 ms","level":"info"}
+{"message":"::1 - GET /productos/5bfadad2a3c7a527e4c7c0ca HTTP/1.1 200 114 - 60.301 ms","level":"info"}
+{"message":"::1 - PUT /productos/5bfae8d69076c42788815685 HTTP/1.1 401 - - 0.938 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5bfae8d69076c42788815685]. Dueño real es [german1]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /productos/5bfae8d69076c42788815685 HTTP/1.1 401 110 - 5.440 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5bfae8d69076c42788815685]"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 18.507 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.542 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.968 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.870 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.387 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.455 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.210 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.330 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.141 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.151 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.618 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.195 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.433 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.193 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.720 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.144 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.417 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.483 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.321 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.183 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.732 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 0.238 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 166.723 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 11.542 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 7.414 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 2.799 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.355 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.814 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 3.105 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.898 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.556 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.966 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.982 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.935 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.980 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.088 ms","level":"info"}
+{"message":"::1 - PUT /profesiones HTTP/1.1 404 150 - 1.118 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.949 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c453131518b6614fc3dc5a5","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c453131518b6614fc3dc5a5","nombProfesion":"SASA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 65 - 50.520 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 938 - 3.646 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":"5c45315a518b6614fc3dc5a6","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"require"},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{"nombProfesion":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"session":null,"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{}},"isNew":false,"_doc":{"_id":"5c45315a518b6614fc3dc5a6","nombProfesion":"ANTES SASA","__v":0},"level":"info","message":"Profesion agregada a la colección profesion"}
+{"message":"::1 - POST /profesiones HTTP/1.1 201 71 - 5.325 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 1010 - 4.007 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.880 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.136 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Profesion con id [5c453131518b6614fc3dc5a5] fue borrado","level":"info"}
+{"message":"::1 - DELETE /profesiones/5c453131518b6614fc3dc5a5 HTTP/1.1 200 65 - 9.313 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5c45315a518b6614fc3dc5a6]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c45315a518b6614fc3dc5a6 HTTP/1.1 401 110 - 6.207 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5c45315a518b6614fc3dc5a6]"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 940 - 4.138 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5c45315a518b6614fc3dc5a6]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c45315a518b6614fc3dc5a6 HTTP/1.1 401 110 - 5.086 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5c45315a518b6614fc3dc5a6]"}
+{"message":"Usuario german completo autenticación exitosamente.","level":"info"}
+{"message":"::1 - POST /loginusuarios/login HTTP/1.1 200 207 - 104.644 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 942 - 3.756 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5c45315a518b6614fc3dc5a6]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c45315a518b6614fc3dc5a6 HTTP/1.1 401 110 - 5.067 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5c45315a518b6614fc3dc5a6]"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 948 - 3.933 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5c45315a518b6614fc3dc5a6]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c45315a518b6614fc3dc5a6 HTTP/1.1 401 110 - 4.828 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5c45315a518b6614fc3dc5a6]"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 944 - 3.882 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Profesion con id [5c45315a518b6614fc3dc5a6] fue borrado","level":"info"}
+{"message":"::1 - DELETE /profesiones/5c45315a518b6614fc3dc5a6 HTTP/1.1 200 71 - 6.115 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 872 - 3.620 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 127 - 4.402 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"::1 - POST /profesiones HTTP/1.1 400 127 - 3.192 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.646 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.877 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.958 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.937 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.979 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.558 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.888 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.499 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 2.816 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5c0b26f9d7ea69249cc2fcac]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 401 110 - 4.949 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5c0b26f9d7ea69249cc2fcac]"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 882 - 3.450 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de producto con id [5c0b26f9d7ea69249cc2fcac]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 401 110 - 3.893 ms","level":"info"}
+{"level":"error","message":"Excepción ocurrió al procesar el borrado de producto con id [5c0b26f9d7ea69249cc2fcac]"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 873 - 3.251 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de la profesion con id [5c0bdbaed2358622a85ca14d]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0bdbaed2358622a85ca14d HTTP/1.1 401 112 - 28.763 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 8.638 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 4.930 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de la profesion con id [5c0b26f9d7ea69249cc2fcac]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 401 112 - 5.573 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 3.867 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de la profesion con id [5c0b26f9d7ea69249cc2fcac]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 401 112 - 4.739 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de la profesion con id [5c0b26f9d7ea69249cc2fcac]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 401 112 - 4.212 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario [german] no es dueño de la profesion con id [5c0b26f9d7ea69249cc2fcac]. Dueño real es [undefined]. Request no será procesado","level":"warn"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 401 112 - 4.383 ms","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 8.978 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.888 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 - - - - ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 304 - - 5.561 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"message":"Corriendo en el puerto 3000.","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":"5c0b26f9d7ea69249cc2fcac","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"init","_id":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"nombProfesion":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{"skipId":true,"isNew":false,"willInit":true}},"isNew":false,"_doc":{"_id":"5c0b26f9d7ea69249cc2fcac","nombProfesion":"BIÓLOGOF","__v":0},"$init":true,"level":"info","message":"profesion con id [5c0b26f9d7ea69249cc2fcac] reemplazado con nuevo profesion"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 200 70 - 53.376 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":"5c0b26f9d7ea69249cc2fcac","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"init","_id":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"nombProfesion":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{"skipId":true,"isNew":false,"willInit":true}},"isNew":false,"_doc":{"_id":"5c0b26f9d7ea69249cc2fcac","nombProfesion":"BIÓLOGOF","__v":0},"$init":true,"level":"info","message":"profesion con id [5c0b26f9d7ea69249cc2fcac] reemplazado con nuevo profesion"}
+{"message":"::ffff:127.0.0.1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 200 70 - 5.449 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":"5c0b26f9d7ea69249cc2fcac","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"init","_id":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"nombProfesion":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{"skipId":true,"isNew":false,"willInit":true}},"isNew":false,"_doc":{"_id":"5c0b26f9d7ea69249cc2fcac","nombProfesion":"BIÓLOGOF","__v":0},"$init":true,"level":"info","message":"profesion con id [5c0b26f9d7ea69249cc2fcac] reemplazado con nuevo profesion"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 200 70 - 5.994 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 874 - 7.567 ms","level":"info"}
+{"message":"Usuario german suministro un token valido. Autenticación completada.","level":"info"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":"5c0b26f9d7ea69249cc2fcac","wasPopulated":false,"activePaths":{"paths":{"nombProfesion":"init","_id":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"nombProfesion":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"cachedRequired":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":{"skipId":true,"isNew":false,"willInit":true}},"isNew":false,"_doc":{"_id":"5c0b26f9d7ea69249cc2fcac","nombProfesion":"BIÓLOGO","__v":0},"$init":true,"level":"info","message":"profesion con id [5c0b26f9d7ea69249cc2fcac] reemplazado con nuevo profesion"}
+{"message":"::1 - PUT /profesiones/5c0b26f9d7ea69249cc2fcac HTTP/1.1 200 69 - 5.732 ms","level":"info"}
+{"message":"::1 - GET /profesiones HTTP/1.1 200 873 - 4.834 ms","level":"info"}
+{"message":"::1 - GET /examenes HTTP/1.1 304 - - 6.370 ms","level":"info"}
+{"message":"::1 - GET /atenciones HTTP/1.1 304 - - 6.393 ms","level":"info"}

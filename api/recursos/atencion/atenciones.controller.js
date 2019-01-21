@@ -1,14 +1,14 @@
 const Atencion = require('./atenciones.model')
 
 // inserta atenciones que se realizan en el laboratorio
-function crearAtencion(producto, dueño) {
+function crearAtencion(atencion, dueño) {
     return new Atencion({
-        ...producto
+        ...atencion
     }).save()
 }
 
-// obtiene Examenes sin filtrar por nada - todos lo registros
-function obtenerExamenes() {    
+// obtiene Atenciones sin filtrar por nada - todos lo registros
+function obtenerAtenciones() {    
     // console.log('==>', Examen.find({}));
     
      return Atencion.find()
@@ -37,7 +37,7 @@ function reemplazarProducto(id, producto, username) {
 
 module.exports = {
     crearAtencion,
-    obtenerExamenes,
+    obtenerAtenciones,
     obtenerProducto,
     borrarProfesion,
     reemplazarProducto

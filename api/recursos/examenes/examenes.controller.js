@@ -8,9 +8,8 @@ function crearProfesion(producto, dueño) {
 
 // obtiene Examenes sin filtrar por nada - todos lo registros
 function obtenerExamenes() {    
-    // console.log('==>', Examen.find({}));
     
-     return Examen.find()
+    return Examen.find()
 }
 
 // obtiene producto  filtra por ID

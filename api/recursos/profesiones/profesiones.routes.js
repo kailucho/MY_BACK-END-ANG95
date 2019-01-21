@@ -64,34 +64,34 @@ profesionesRouter.get('/:id', validarIdDeMongo, (req, res) => {
 profesionesRouter.put('/:id', [jwtAutenticate, validarProfesion], async (req, res) => {
     let id = req.params.id
     let requestUsuario = req.user.username
-    let productoAReemplazar
+    let profesionAReemplazar
 
     try {
-        productoAReemplazar = await profesionController.obtenerProfesion(id)
+        profesionAReemplazar = await profesionController.obtenerProfesion(id)
     } catch (err) {
-        log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
-        res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
+        log.error(`Excepción ocurrió al procesar el borrado de profesion con id [${id}]`, err)
+        res.status(404).send(`Error ocurrio borrado profesion con id[${id}]`)
         return
     }
 
-    if (!productoAReemplazar) {
-        res.status(404).send(`El producto con id [${id}] no existe.`)
+    if (!profesionAReemplazar) {
+        res.status(404).send(`La profesion con id [${id}] no existe.`)
         return
     }
 
-    if (productoAReemplazar.dueño !== requestUsuario) {
-        log.warn(`Usuario [${requestUsuario}] no es dueño de producto con id [${id}]. Dueño real es [${productoAReemplazar.dueño}]. Request no será procesado`)
-        res.status(401).send(`No eres dueño del producto con id [${id}]. Solo puedes modificar productos creados por ti.`)
-    }
+    // if (profesionAReemplazar.dueño !== requestUsuario) {
+    //     log.warn(`Usuario [${requestUsuario}] no es dueño de la profesion con id [${id}]. Dueño real es [${profesionAReemplazar.dueño}]. Request no será procesado`)
+    //     res.status(401).send(`No eres dueño del profesion con id [${id}]. Solo puedes modificar profesions creados por ti.`)
+    // }
 
-    profesionController.reemplazarProducto(id, req.body, requestUsuario)
-        .then(producto => {
-            res.json(producto)
-            log.info(`Producto con id [${id}] reemplazado con nuevo producto`, producto)
+    profesionController.reemplazarProfesion(id, req.body, requestUsuario)
+        .then(profesion => {
+            res.json(profesion)
+            log.info(`profesion con id [${id}] reemplazado con nuevo profesion`, profesion)
         })
         .catch(err => {
-            log.error(`Excepción ocurrió al procesar el borrado de producto con id [${id}]`, err)
-            res.status(404).send(`Error ocurrio borrado producto con id[${id}]`)
+            log.error(`Excepción ocurrió al procesar el borrado de profesino con id [${id}]`, err)
+            res.status(404).send(`Error ocurrio borrado profesino con id[${id}]`)
         })
 })
 
@@ -122,9 +122,9 @@ profesionesRouter.delete('/:id', [jwtAutenticate, validarIdDeMongo], async (req,
     // }
 
     try {
-        let productoBorrado = await profesionController.borrarProfesion(id)
+        let profesionBorrada = await profesionController.borrarProfesion(id)
         log.info(`Profesion con id [${id}] fue borrado`)
-        res.json(productoBorrado)
+        res.json(profesionBorrada)
 
     } catch (err) {
         res.status(500).send(`Error ocurrió borrando Profesion con id[ ${id}]`)

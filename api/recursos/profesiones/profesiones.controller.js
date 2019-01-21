@@ -1,5 +1,6 @@
 const Profesion = require('./profesiones.model')
 
+// Crea / inserta profesion
 function crearProfesion(producto, dueño) {
     return new Profesion({
         ...producto
@@ -21,8 +22,8 @@ function borrarProfesion(id) {
     return Profesion.findByIdAndDelete(id)
 }
 
-function reemplazarProducto(id, producto, username) {
-    return Producto.findOneAndUpdate({
+function reemplazarProfesion(id, producto, username) {
+    return Profesion.findOneAndUpdate({
         _id: id
     }, {
         ...producto,
@@ -37,5 +38,5 @@ module.exports = {
     obtenerProfesiones,
     obtenerProfesion,
     borrarProfesion,
-    reemplazarProducto
+    reemplazarProfesion
 }

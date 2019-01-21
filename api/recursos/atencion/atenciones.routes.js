@@ -22,12 +22,12 @@ function validarIdDeMongo(req, res, next) {
 }
 
 atencionesRouter.get('/', (req, res) => {
-    examenController.obtenerExamenes()
-        .then(Examenes => {            
-            res.json(Examenes)
+    examenController.obtenerAtenciones()
+        .then(Atenciones => {            
+            res.json(Atenciones)
         })
         .catch(err => {
-            res.status(500).send('Error al leer los examenes de la base de datos.')
+            res.status(500).send('Error al leer las Atenciones de la base de datos.')
         })
 })
 
